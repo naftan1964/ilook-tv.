@@ -1,1 +1,174 @@
+[Эфирные]
+НТВ
+Россия 1
+Первый канал
+РЕН ТВ
+Звезда Плюс
+Звезда
+Мосфильм. Золотая коллекция
+Арсенал
+Оружие
+Т24
+Мир
+Санкт-Петербург
+[Новостные]
+Россия 24
+РТР Планета
+Москва 24
+Мир 24
+Euronews Россия
+Известия
+Центральное телевидение
+РБК
+Инфоканал
+360 Новости
+[Спортивные]
+Матч тв
+Матч! Премьер
+Матч! Футбол 1
+Матч! Футбол 2
+Матч! Футбол 3
+Беларусь 5
+Megogo Спорт
+Setanta Sports 1
+Setanta Sports 2
+Viju+ Sport
+Окко Футбол
+Окко Прайм Спорт
+Окко Спорт
+Eurosport 1
+Eurosport 2
+BOX SportCast
+KHL Prime
+KHL
+[Кино и сериалы]
+Viju+ Premiere
+Viju+ Megahit
+Viju+ Comedy
+Viju TV1000 Action
+Viju TV1000
+Viju TV1000 Русское
+Мужское Кино
+Кинохит
+Киномикс
+Кинопремьера
+Наше Новое Кино
+Кинокомедия
+Киноужас
+Родное Кино
+Дом Кино Премиум
+Дом Кино
+Иллюзион+
+Русский иллюзион
+Кинопоказ
+Кино ТВ
+Комедия
+Камеди
+Комедийное
+Любимое
+Любимое Кино
+ЕвроКино
+ТВ 21
+9-1-1
+НСТ
+Шокирующее
+Страшное
+Cinema
+sci-fi
+[Кинозалы]
+Z!Russian
+Z!Comedy
+Z!Thriller
+Z!Action
+Z!Adventure
+Z!Detective
+Z!Fantastic
+VeleS 60fps
+VeleS Киноплёнка
+VeleS Premiere
+VeleS Страшное
+VeleS СССР
+VeleS Movie Hits
+BCU Russian
+BCU СССР
+BCU Comedy
+BCU Action
+BCU Premiere
+BCU Catastrophe
+BCU Fantastic
+BCU Kinorating
+BCU VHS HDR
+CineMan
+CineMan Top
+CineMan РуКино
+CineMan Premium
+CineMan Action
+CineMan Thriller
+CineMan Катастрофы
+CineMan Ужасы
+MM Роскино
+MM NewFilm RU
+MM USSR Комедия
+MM USSR Приключения
+MM Комедия Classic
+MM Комедия
+MM Боевик Classic
+MM Боевик
+MM Триллер
+MM NewFilm 1
+MM NewFilm 2
+MM NewFilm 3
+MM Катастрофа
+MM Погружение
+MM Приключения
+MM Фантастика
+MM UFO
+MM Ужасы
+Yosso TV Best
+Yosso TV New Кино
+Yosso TV Thriller
+Yosso TV Adrenaline
+Yosso TV Русские Фильмы
+Yosso TV Советские Фильмы
+Yosso TV VHS
+PG Premiere HD
+PG Premium HD
+PG Thriller HD
+PG РуКино HD
+PG VHS HD
+[Познавательные]
+Z!Travel
+Z!Science
+The Explorers
+National Geographic
+Мужской
+TERRA
+DocuBox
+BOX Kosmo
+BOX History
+BOX Mayday
+CineMan Air Crash
+Большая Азия
+Discovery Channel
+Investigation Discovery
+Первый космический
+Телепутешествия
+Глазами Туриста
+Приключения
+Viju Explore
+Viju History
+Viju+ Planet
+History
+History 2
+Travel+Adventure
+Travel Channel
+TravelXP
+Моя Планета
+Big Planet
+Дикий
+Дикая рыбалка
+Диалоги о рыбалке
+
+
+
 
