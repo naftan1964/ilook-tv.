@@ -249,18 +249,20 @@ def check_stream(item):
     except Exception:
         pass
     return None
+
 def classify_sport_stream(name):
     n = name.lower()
-    # 1. Сначала ловим 720 / 720 rip / Aric 720 для 5-го слота
-    if re.search(r'\b(720p?|720\s*rip)\b', n) or ('720' in n and re.search(r'\b(orig|ориг|ариг|aric)\b', n)):
-        return "slot5"
-    # 2. Ловим Full HD / Aric (без 720) для 1-го слота
-    if re.search(r'\b(full\s*hd|fhd|1080p?|orig|ориг|ариг|aric)\b', n):
+    # 1. Явные пометки 720 -> строго в 5-й слот
+    if '720' in n:
+        return "slot5_720"
+    # 2. Full HD, HD 50 (50/60 fps), Aric, Orig -> строго в 1-й слот
+    if re.search(r'\b(full\s*hd|fhd|1080p?|50\s*fps|60\s*fps|hd\s*50|orig|ориг|ариг|aric)\b', n):
         return "slot1_only"
-    # 3. Обычный HD (исключая Full HD и 720) подходит и для 1-го, и для 2-4 слотов
+    # 3. Чистый HD (25 fps) -> в 2-4 слоты (или в 1-й, если нет Full HD / HD 50 / Aric)
     if re.search(r'\bhd\b', n):
         return "hd_general"
-    return "other"
+    # 4. Лёгкий поток без приставок (например, просто "Матч Премьер") -> в 5-й слот
+    return "slot5_plain"
 
 
 def select_channel_streams(streams, is_sport):
@@ -276,9 +278,10 @@ def select_channel_streams(streams, is_sport):
     if not is_sport:
         return unique[:MAX_STREAMS_PER_CHANNEL]
 
-    slot1_only = []   # Full HD, Aric
-    hd_general = []   # Чистый HD (идёт в 2-4 слоты, а при нехватке Full HD/Aric — и в 1-й)
-    slot5_pool = []   # 720 rip, Aric 720, 720p
+    slot1_only = []    # Full HD, HD 50, Aric
+    hd_general = []    # Чистый HD 25 fps (слоты 2-4, и 1-й если нет Full HD)
+    slot5_720 = []     # Если есть с 720
+    slot5_plain = []   # Обычный лёгкий поток без приставок ("Матч Премьер")
 
     for s in unique:
         title_val = s[1].rsplit(",", 1).pop().strip()
@@ -287,21 +290,27 @@ def select_channel_streams(streams, is_sport):
             slot1_only.append(s)
         elif cat == "hd_general":
             hd_general.append(s)
-        elif cat == "slot5":
-            slot5_pool.append(s)
+        elif cat == "slot5_720":
+            slot5_720.append(s)
+        else:
+            slot5_plain.append(s)
 
-    # Слот 1: только Full HD, Aric или HD
+    # Слот 1: только Full HD / HD 50 / Aric (если их нет — чистый HD)
     first = None
     if slot1_only:
         first = slot1_only.pop(0)
     elif hd_general:
         first = hd_general.pop(0)
 
-    # Слоты 2, 3, 4: только обычный HD
+    # Слоты 2, 3, 4: строго чистый HD (25 fps)
     middle = hd_general[:3]
 
-    # Слот 5: только 720 rip / Aric 720
-    fifth = slot5_pool.pop(0) if slot5_pool else None
+    # Слот 5: лёгкий поток без приставок (или 720, если попадётся)
+    fifth = None
+    if slot5_plain:
+        fifth = slot5_plain.pop(0)
+    elif slot5_720:
+        fifth = slot5_720.pop(0)
 
     result = []
     if first:
@@ -310,7 +319,7 @@ def select_channel_streams(streams, is_sport):
     if fifth:
         result.append(fifth)
 
-    # Страховка: если по строгим фильтрам вообще ничего не подошло, отдаём хотя бы 1 рабочий поток
+    # Страховка: если у канала вообще нет HD/Full HD, а есть только простые потоки
     if not result and unique:
         result.append(unique[0])
 
