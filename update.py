@@ -249,6 +249,47 @@ def check_stream(item):
     except Exception:
         pass
     return None
+    def is_heavy_hd(name):
+    return bool(re.search(r'\b(full\s*hd|fhd|orig|ориг|ариг|1080p?|50\s*fps|60\s*fps)\b', name.lower()))
+
+
+def select_channel_streams(streams, is_sport):
+    streams.sort(key=stream_sort_key)
+    unique = []
+    seen_urls = set()
+    for s in streams:
+        grp_val, info_val, url_val, ping_val = s
+        if url_val not in seen_urls:
+            seen_urls.add(url_val)
+            unique.append(s)
+
+    if not is_sport:
+        return unique[:MAX_STREAMS_PER_CHANNEL]
+
+    if len(unique) <= 1:
+        return unique
+
+    heavy = []
+    light = []
+    for s in unique:
+        grp_val, info_val, url_val, ping_val = s
+        title_val = info_val.rsplit(",", 1).pop().strip()
+        if is_heavy_hd(title_val):
+            heavy.append(s)
+        else:
+            light.append(s)
+
+    # 1-й поток: лучший Full HD / Orig / HD
+    first = heavy.pop(0) if heavy else light.pop(0)
+    # 5-й (последний) поток: лёгкий 720p / SD для плохого интернета
+    last = light.pop(0) if light else (heavy.pop(-1) if heavy else None)
+
+    middle = (heavy + light)[:3]
+    result = [first] + middle
+    if last and last != first:
+        result.append(last)
+    return result[:5]
+
 def main():
     epg_host = "raw.githubusercontent.com"
     epg_path = "Lorax121/epg_v2/main/data/epg2.xml.gz"
