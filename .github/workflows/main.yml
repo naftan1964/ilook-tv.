@@ -1,7 +1,5 @@
 name: Update iLook Playlist
 
-name: Update iLook Playlist
-
 on:
   workflow_dispatch:
   repository_dispatch:
