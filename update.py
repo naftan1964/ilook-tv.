@@ -320,11 +320,14 @@ def main():
                     name_lower = raw_name.lower()
                     for idx, (w, grp) in enumerate(wanted_list):
                         is_kz = (grp.lower() == "кинозалы")
+                        is_sport = (grp.lower() == "спортивные")
                         allow_all = (
                             is_kz
+                            or is_sport
                             or w.startswith(("z!", "cineman", "bcu ", "box "))
                             or w in ("history 2", "travelxp")
                         )
+
                         if is_channel_match(w, name_lower, allow_all):
                             if not is_unsupported_format(raw_name, allow_all):
                                 candidates.append((src, idx, w, grp, current_info, line))
