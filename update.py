@@ -249,8 +249,18 @@ def check_stream(item):
     except Exception:
         pass
     return None
-def is_heavy_hd(name):
-        return bool(re.search(r'\b(full\s*hd|fhd|orig|ориг|ариг|1080p?|50\s*fps|60\s*fps)\b', name.lower()))
+def classify_sport_stream(name):
+    n = name.lower()
+    # 1. Сначала ловим 720 / 720 rip / Aric 720 для 5-го слота
+    if re.search(r'\b(720p?|720\s*rip)\b', n) or ('720' in n and re.search(r'\b(orig|ориг|ариг|aric)\b', n)):
+        return "slot5"
+    # 2. Ловим Full HD / Aric (без 720) для 1-го слота
+    if re.search(r'\b(full\s*hd|fhd|1080p?|orig|ориг|ариг|aric)\b', n):
+        return "slot1_only"
+    # 3. Обычный HD (исключая Full HD и 720) подходит и для 1-го, и для 2-4 слотов
+    if re.search(r'\bhd\b', n):
+        return "hd_general"
+    return "other"
 
 
 def select_channel_streams(streams, is_sport):
@@ -266,29 +276,49 @@ def select_channel_streams(streams, is_sport):
     if not is_sport:
         return unique[:MAX_STREAMS_PER_CHANNEL]
 
-    if len(unique) <= 1:
-        return unique
+    slot1_only = []   # Full HD, Aric
+    hd_general = []   # Чистый HD (идёт в 2-4 слоты, а при нехватке Full HD/Aric — и в 1-й)
+    slot5_pool = []   # 720 rip, Aric 720, 720p
 
-    heavy = []
-    light = []
     for s in unique:
-        grp_val, info_val, url_val, ping_val = s
-        title_val = info_val.rsplit(",", 1).pop().strip()
-        if is_heavy_hd(title_val):
-            heavy.append(s)
-        else:
-            light.append(s)
+        title_val = s[1].rsplit(",", 1).pop().strip()
+        cat = classify_sport_stream(title_val)
+        if cat == "slot1_only":
+            slot1_only.append(s)
+        elif cat == "hd_general":
+            hd_general.append(s)
+        elif cat == "slot5":
+            slot5_pool.append(s)
 
-    # 1-й поток: лучший Full HD / Orig / HD
-    first = heavy.pop(0) if heavy else light.pop(0)
-    # 5-й (последний) поток: лёгкий 720p / SD для плохого интернета
-    last = light.pop(0) if light else (heavy.pop(-1) if heavy else None)
+    # Слот 1: только Full HD, Aric или HD
+    first = None
+    if slot1_only:
+        first = slot1_only.pop(0)
+    elif hd_general:
+        first = hd_general.pop(0)
 
-    middle = (heavy + light)[:3]
-    result = [first] + middle
-    if last and last != first:
-        result.append(last)
+    # Слоты 2, 3, 4: только обычный HD
+    middle = hd_general[:3]
+
+    # Слот 5: только 720 rip / Aric 720
+    fifth = slot5_pool.pop(0) if slot5_pool else None
+
+    result = []
+    if first:
+        result.append(first)
+    result.extend(middle)
+    if fifth:
+        result.append(fifth)
+
+    # Страховка: если по строгим фильтрам вообще ничего не подошло, отдаём хотя бы 1 рабочий поток
+    if not result and unique:
+        result.append(unique[0])
+
     return result[:5]
+
+
+
+
 
 def main():
     epg_host = "raw.githubusercontent.com"
