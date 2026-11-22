@@ -345,7 +345,7 @@ def main():
                 alive_per_source[src_name] += 1
                 valid_by_idx.setdefault(idx, []).append((grp, info, url, ping))
 
-        for idx in valid_by_idx:
+    for idx in valid_by_idx:
         is_sport = (wanted_list[idx][1].lower() == "спортивные")
         valid_by_idx[idx] = select_channel_streams(valid_by_idx[idx], is_sport)
 
