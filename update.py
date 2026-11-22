@@ -345,23 +345,17 @@ def main():
                 alive_per_source[src_name] += 1
                 valid_by_idx.setdefault(idx, []).append((grp, info, url, ping))
 
-    for idx in valid_by_idx:
-        valid_by_idx[idx].sort(key=stream_sort_key)
-        unique_streams = []
-        seen_urls = set()
-        for s in valid_by_idx[idx]:
-            url_val = s[2]
-            if url_val not in seen_urls:
-                seen_urls.add(url_val)
-                unique_streams.append(s)
-        valid_by_idx[idx] = unique_streams[:MAX_STREAMS_PER_CHANNEL]
+        for idx in valid_by_idx:
+        is_sport = (wanted_list[idx][1].lower() == "спортивные")
+        valid_by_idx[idx] = select_channel_streams(valid_by_idx[idx], is_sport)
 
     seen_names = {}
     total_streams = 0
     found_indices = set()
 
     with open(OUTPUT_PLAYLIST, "w", encoding="utf-8") as out:
-        out.write(f'#EXTM3U url-tvg="{epg_url}"\n')
+        out.write(f'#EXTM3U url-tvg="{epg_url}" catchup="shift" catchup-days="5"\n')
+
         for idx, (w, grp) in enumerate(wanted_list):
             p_streams = pinned_by_idx.get(idx, [])
             a_streams = valid_by_idx.get(idx, [])
