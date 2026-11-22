@@ -249,7 +249,7 @@ def check_stream(item):
     except Exception:
         pass
     return None
-    def is_heavy_hd(name):
+def is_heavy_hd(name):
         return bool(re.search(r'\b(full\s*hd|fhd|orig|ориг|ариг|1080p?|50\s*fps|60\s*fps)\b', name.lower()))
 
 
