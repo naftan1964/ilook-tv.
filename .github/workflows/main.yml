@@ -1,1 +1,29 @@
+name: Update iLook Playlist
+
+on: [workflow_dispatch]
+
+concurrency:
+  group: ilook-playlist-update
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: |
+          python3 update.py
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add pl_9x8k2m.m3u
+          if ! git diff --staged --quiet; then
+            git commit -m "Update iLook playlist"
+            git pull --rebase --autostash origin main
+            git push origin main
+          fi
 
