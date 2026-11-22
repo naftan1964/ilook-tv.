@@ -250,7 +250,7 @@ def check_stream(item):
         pass
     return None
 def main():
-    epg_host = "://githubusercontent.com"
+    epg_host = "raw.githubusercontent.com"
     epg_path = "Lorax121/epg_v2/main/data/epg2.xml.gz"
     epg_url = f"https://{epg_host}/{epg_path}"
 
