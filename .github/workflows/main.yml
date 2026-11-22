@@ -8,6 +8,12 @@ on:
     types: [update-playlist]
 
 
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [update-playlist]
+
+
 concurrency:
   group: ilook-playlist-update
   cancel-in-progress: true
