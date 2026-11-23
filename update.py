@@ -16,6 +16,7 @@ SOURCE_FILES = [
     "s1_k9m2.m3u",
     "s2_p4x8.m3u",
     "s3_v7n1.m3u",
+    "s5_1964n.m3u",
     "s4_z5q3.m3u",
 ]
 OUTPUT_PLAYLIST = "pl_9x8k2m.m3u"
