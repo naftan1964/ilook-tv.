@@ -145,7 +145,7 @@ National Geographic
 TERRA
 DocuBox
 BOX Kosmo
-BOX History
+BOX Stories
 BOX Mayday
 CineMan Air Crash
 Большая Азия
