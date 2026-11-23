@@ -378,7 +378,7 @@ def main():
                 current_info = ""
 
     valid_by_idx = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
         for res in executor.map(check_stream, candidates):
             if res:
                 src_name, idx, key, grp, info, url, ping = res
