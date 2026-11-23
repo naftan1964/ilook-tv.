@@ -83,6 +83,10 @@ VF The X-Files
 VF Сверхъестественное
 VF Городок
 MM Агата Кристи HD
+MM Квартирник
+StrahTV Сваты
+CineMan Лесник
+CineMan ПёС + Лихач
 [Кинозалы]
 Z!Russian
 Z!Comedy
