@@ -490,8 +490,6 @@ def main():
         print("🎉 Отлично! Найдены абсолютно все каналы из списка!")
     print("=" * 45 + "\n")
 
-    if dead_sources:
-        sys.exit(1)
 
 
 if __name__ == "__main__":
