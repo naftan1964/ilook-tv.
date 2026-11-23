@@ -131,6 +131,18 @@ Yosso TV Adrenaline
 Yosso TV Русские Фильмы
 Yosso TV Советские Фильмы
 Yosso TV VHS
+VF Adventure
+VF Comedy
+VF Family
+VF Fantasy
+VF Mystic
+VF Ужасы
+VF VHS MIX
+VF Премьера
+VF Premiere
+VF Комедия
+VF Катастрофы
+VF Боевик
 PG Premiere HD
 PG Premium HD
 PG Thriller HD
