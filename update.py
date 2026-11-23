@@ -417,8 +417,9 @@ def main():
                 valid_by_idx.setdefault(idx, []).append((grp, info, url, ping))
 
     for idx in valid_by_idx:
-        is_sport = (wanted_list[idx][1].lower() == "спортивные")
-        valid_by_idx[idx] = select_channel_streams(valid_by_idx[idx], is_sport)
+        _, grp_name = wanted_list[idx]
+        valid_by_idx[idx] = select_channel_streams(valid_by_idx[idx], grp_name)
+
 
     seen_names = {}
     total_streams = 0
