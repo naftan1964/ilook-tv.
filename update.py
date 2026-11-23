@@ -265,8 +265,7 @@ def classify_sport_stream(name):
     # 4. Лёгкий поток без приставок (например, просто "Матч Премьер") -> в 5-й слот
     return "slot5_plain"
 
-
-def select_channel_streams(streams, is_sport):
+def select_channel_streams(streams, group_name=""):
     streams.sort(key=stream_sort_key)
     unique = []
     seen_urls = set()
@@ -276,55 +275,87 @@ def select_channel_streams(streams, is_sport):
             seen_urls.add(url_val)
             unique.append(s)
 
-    if not is_sport:
-        return unique[:MAX_STREAMS_PER_CHANNEL]
+    grp_low = group_name.lower()
 
-    slot1_only = []    # Full HD, HD 50, Aric
-    hd_general = []    # Чистый HD 25 fps (слоты 2-4, и 1-й если нет Full HD)
-    slot5_720 = []     # Если есть с 720
-    slot5_plain = []   # Обычный лёгкий поток без приставок ("Матч Премьер")
+    # Логика для спортивных каналов (5 слотов)
+    if grp_low == "спортивные":
+        slot1_only = []
+        hd_general = []
+        slot5_720 = []
+        slot5_plain = []
 
-    for s in unique:
-        title_val = s[1].rsplit(",", 1).pop().strip()
-        cat = classify_sport_stream(title_val)
-        if cat == "slot1_only":
-            slot1_only.append(s)
-        elif cat == "hd_general":
-            hd_general.append(s)
-        elif cat == "slot5_720":
-            slot5_720.append(s)
-        else:
-            slot5_plain.append(s)
+        for s in unique:
+            title_val = s[1].rsplit(",", 1).pop().strip()
+            cat = classify_sport_stream(title_val)
+            if cat == "slot1_only":
+                slot1_only.append(s)
+            elif cat == "hd_general":
+                hd_general.append(s)
+            elif cat == "slot5_720":
+                slot5_720.append(s)
+            else:
+                slot5_plain.append(s)
 
-    # Слот 1: только Full HD / HD 50 / Aric (если их нет — чистый HD)
-    first = None
-    if slot1_only:
-        first = slot1_only.pop(0)
-    elif hd_general:
-        first = hd_general.pop(0)
+        first = None
+        if slot1_only:
+            first = slot1_only.pop(0)
+        elif hd_general:
+            first = hd_general.pop(0)
 
-    # Слоты 2, 3, 4: строго чистый HD (25 fps)
-    middle = hd_general[:3]
+        middle = hd_general[:3]
 
-    # Слот 5: лёгкий поток без приставок (или 720, если попадётся)
-    fifth = None
-    if slot5_plain:
-        fifth = slot5_plain.pop(0)
-    elif slot5_720:
-        fifth = slot5_720.pop(0)
+        fifth = None
+        if slot5_plain:
+            fifth = slot5_plain.pop(0)
+        elif slot5_720:
+            fifth = slot5_720.pop(0)
 
-    result = []
-    if first:
-        result.append(first)
-    result.extend(middle)
-    if fifth:
-        result.append(fifth)
+        result = []
+        if first:
+            result.append(first)
+        result.extend(middle)
+        if fifth:
+            result.append(fifth)
 
-    # Страховка: если у канала вообще нет HD/Full HD, а есть только простые потоки
-    if not result and unique:
-        result.append(unique[0])
+        if not result and unique:
+            result.append(unique[0])
 
-    return result[:5]
+        return result[:5]
+
+    # Новая логика для группы "Эфирные" (3 лучших HD + 4-й слот лёгкий не выше 720p)
+    if grp_low == "эфирные":
+        hd_streams = []
+        light_720 = []
+        light_plain = []
+
+        for s in unique:
+            title_val = s[1].rsplit(",", 1).pop().strip().lower()
+            if '720' in title_val:
+                light_720.append(s)
+            elif re.search(r'\b(1080p?|hd)\b', title_val):
+                hd_streams.append(s)
+            else:
+                light_plain.append(s)
+
+        result = hd_streams[:3]
+        # 4-й слот: лёгкий поток (сначала обычный без HD, если нет — 720p)
+        fourth = None
+        if light_plain:
+            fourth = light_plain.pop(0)
+        elif light_720:
+            fourth = light_720.pop(0)
+
+        if fourth:
+            result.append(fourth)
+        elif not result and unique:
+            result.append(unique[0])
+
+        return result[:4]
+
+    # Все остальные группы — как раньше (3 потока)
+    return unique[:MAX_STREAMS_PER_CHANNEL]
+
+
 
 
 
