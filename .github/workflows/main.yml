@@ -2,13 +2,8 @@ name: Update iLook Playlist
 
 on:
   workflow_dispatch:
-
-
-on:
-  workflow_dispatch:
   repository_dispatch:
     types: [update-playlist]
-
 
 concurrency:
   group: ilook-playlist-update
@@ -30,12 +25,13 @@ jobs:
         if: always()
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@://github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add pl_9x8k2m.m3u
           if ! git diff --staged --quiet; then
             git commit -m "Update iLook playlist"
             git pull --rebase --autostash origin main
             git push origin main
           fi
+
 
 
