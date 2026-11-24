@@ -71,22 +71,60 @@ def has_timezone_shift(name):
     return bool(re.search(r'[\s\(\[][\+\-]\d{1,2}[\)\]]?\b', name))
 
 
-def is_unsupported_format(name, allow_all_formats=False):
-    if allow_all_formats:
-        return False
-    return bool(re.search(r'\b(full\s*hd|fhd|orig|ориг|ариг|4k|uhd|ultra\s*hd|50\s*fps|60\s*fps|hdr)\b', name.lower()))
+POZN_BLOCKED_RE = re.compile(
+    r'(?<![a-zа-яё0-9])('
+    r'4k\s*hdr|4k|uhd|ultra\s*hd|'
+    r'fhd\s*(?:orig|oric|ориг|ариг|aric)|full\s*hd\s*(?:orig|oric|ориг|ариг|aric)|'
+    r'fhd|full\s*hd|'
+    r'uk|pl|es|md|bg|az|pt|de|kz'
+    r')(?![a-zа-яё0-9])',
+    re.IGNORECASE,
+)
+
+
+def is_blocked_pozn(name):
+  return bool(POZN_BLOCKED_RE.search(name))
+
+
+def is_unsupported_format(name, allow_all_formats=False, is_history2=False):
+  if allow_all_formats:
+    return False
+  n = name.lower()
+
+  if is_history2:
+    if re.search(
+        r'\b(full\s*hd|fhd|4k|uhd|ultra\s*hd|50\s*fps|60\s*fps|hdr)\b', n
+    ):
+      return True
+    return not bool(re.search(r'\bhd(?:\s*(?:orig|oric|ориг|ариг|aric))?\b', n))
+
+  return bool(
+      re.search(
+          r'\b(full\s*hd|fhd|orig|oric|ориг|ариг|aric|4k|uhd|ultra\s*hd|50\s*fps|60\s*fps|hdr)\b',
+          n,
+      )
+  )
 
 
 def clean_title(name, allow_all_formats=False):
-    name = name.lower().strip()
-    name = re.sub(r'[\(\[].*?[\)\]]', ' ', name)
-    if allow_all_formats:
-        name = re.sub(r'\b(full\s*hd|fhd|orig|ориг|ариг|4k|uhd|ultra\s*hd|50\s*fps|hd|sd|1080p?|720p?|russia|rus|ru|by|ua)\b', ' ', name)
-    else:
-        name = re.sub(r'\b(hd|sd|1080p?|720p?|60\s*fps|hdr|russia|rus|ru|by|ua)\b', ' ', name)
-    name = re.sub(r'[^\w\sа-яёa-z0-9]', ' ', name)
-    name = re.sub(r'\btv\b', 'тв', name)
-    return re.sub(r'\s+', ' ', name).strip()
+  name = name.lower().strip()
+  name = re.sub(r'[\(\[].*?[\)\]]', ' ', name)
+  if allow_all_formats:
+    name = re.sub(
+        r'\b(full\s*hd|fhd|orig|oric|ориг|ариг|aric|4k|uhd|ultra\s*hd|50\s*fps|hd|sd|1080p?|720p?|russia|rus|ru|by|ua)\b',
+        ' ',
+        name,
+    )
+  else:
+    name = re.sub(
+        r'\b(hd|sd|orig|oric|ориг|ариг|aric|1080p?|720p?|60\s*fps|hdr|russia|rus|ru|by|ua)\b',
+        ' ',
+        name,
+    )
+  name = re.sub(r'[^\w\sа-яёa-z0-9]', ' ', name)
+  name = re.sub(r'\btv\b', 'тв', name)
+  return re.sub(r'\s+', ' ', name).strip()
+
 
 
 def is_channel_match(wanted, channel_name, allow_all_formats=False):
@@ -390,22 +428,35 @@ def main():
                 if not has_timezone_shift(raw_name):
                     name_lower = raw_name.lower()
                     for idx, (w, grp) in enumerate(wanted_list):
-                        is_kz = (grp.lower() == "кинозалы")
-                        is_sport = (grp.lower() == "спортивные")
-                        allow_all = (
-                            is_kz
-                            or is_sport
-                            or w.startswith(("z!", "cineman", "bcu ", "box "))
-                            or w in ("history 2", "travelxp")
-                        )
+                      grp_low = grp.lower()
+                      is_kz = grp_low == "кинозалы"
+                      is_sport = grp_low == "спортивные"
+                      is_pozn = grp_low == "познавательные"
+                      is_history2 = w == "history 2"
 
-                        if is_channel_match(w, name_lower, allow_all):
-                            if not is_unsupported_format(raw_name, allow_all):
-                                candidates.append((src, idx, w, grp, current_info, line))
-                                tested_per_source[src] += 1
-                            else:
-                                blocked_by_format.setdefault(idx, set()).add(raw_name)
-                            break
+                      allow_all = (
+                          is_kz
+                          or is_sport
+                          or w.startswith(("z!", "cineman", "bcu ", "box "))
+                          or w == "travelxp"
+                      )
+
+                      if is_channel_match(w, name_lower, allow_all):
+                        if is_pozn and is_blocked_pozn(raw_name):
+                          blocked_by_format.setdefault(idx, set()).add(raw_name)
+                        elif not is_unsupported_format(
+                            raw_name,
+                            allow_all_formats=allow_all,
+                            is_history2=is_history2,
+                        ):
+                          candidates.append(
+                              (src, idx, w, grp, current_info, line)
+                          )
+                          tested_per_source[src] += 1
+                        else:
+                          blocked_by_format.setdefault(idx, set()).add(raw_name)
+                        break
+
                 current_info = ""
 
     valid_by_idx = {}
