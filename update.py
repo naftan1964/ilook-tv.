@@ -428,7 +428,8 @@ def main():
                 if not has_timezone_shift(raw_name):
                     name_lower = raw_name.lower()
                     for idx, (w, grp) in enumerate(wanted_list):
-                      grp_low = grp.lower()
+                      grp_low = re.sub(
+                          r'^[^\wа-яёa-z0-9]+', '', grp.lower()
                       is_kz = grp_low == "кинозалы"
                       is_sport = grp_low == "спортивные"
                       is_pozn = grp_low == "познавательные"
