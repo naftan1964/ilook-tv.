@@ -171,7 +171,6 @@ National Geographic
 TERRA
 DocuBox
 StrahTV Космо
-BOX Kosmo
 BOX Stories
 BOX Mayday
 CineMan Air Crash
