@@ -310,10 +310,10 @@ def select_channel_streams(streams, group_name=""):
     for s in streams:
         grp_val, info_val, url_val, ping_val = s
         if url_val not in seen_urls:
-            seen_urls.add(url_val)
-            unique.append(s)
+          seen_urls.add(url_val)
+          unique.append(s)
 
-    grp_low = group_name.lower()
+    grp_low = re.sub(r'^[^\wа-яёa-z0-9]+', '', group_name.lower()).strip()
 
     # Логика для спортивных каналов (5 слотов)
     if grp_low == "спортивные":
