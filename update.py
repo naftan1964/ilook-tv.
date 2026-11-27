@@ -590,7 +590,8 @@ def send_telegram_report(text):
         return
 
     token = m_token.group(0)
-    api_url = f"https://telegram.org{token}/sendMessage"
+    tg_host = "api.telegram.org"
+    api_url = f"https://{tg_host}/bot{token}/sendMessage"
     payload = urllib.parse.urlencode({
         "chat_id": chat_id,
         "text": text[:3800],
@@ -606,5 +607,6 @@ def send_telegram_report(text):
 
 if __name__ == "__main__":
     main()
+
 
 
