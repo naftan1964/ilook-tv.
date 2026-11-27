@@ -398,7 +398,7 @@ def select_channel_streams(streams, group_name=""):
 
 
 def main():
-    epg_host = "raw.githubusercontent.com"
+    epg_host = "://githubusercontent.com"
     epg_path = "Lorax121/epg_v2/main/data/epg2.xml.gz"
     epg_url = f"https://{epg_host}/{epg_path}"
 
@@ -426,34 +426,34 @@ def main():
                 if not has_timezone_shift(raw_name):
                     name_lower = raw_name.lower()
                     for idx, (w, grp) in enumerate(wanted_list):
-                      grp_low = re.sub(r'^[\W_]+', '', grp.lower())
-                      is_kz = grp_low == "кинозалы"
-                      is_sport = grp_low == "спортивные"
-                      is_pozn = grp_low == "познавательные"
-                      is_history2 = w == "history 2"
+                        grp_low = re.sub(r'^[\W_]+', '', grp.lower())
+                        is_kz = grp_low == "кинозалы"
+                        is_sport = grp_low == "спортивные"
+                        is_pozn = grp_low == "познавательные"
+                        is_history2 = w == "history 2"
 
-                      allow_all = (
-                          is_kz
-                          or is_sport
-                          or w.startswith(("z!", "cineman", "bcu ", "box "))
-                          or w == "travelxp"
-                      )
+                        allow_all = (
+                            is_kz
+                            or is_sport
+                            or w.startswith(("z!", "cineman", "bcu ", "box "))
+                            or w == "travelxp"
+                        )
 
-                      if is_channel_match(w, name_lower, allow_all):
-                        if is_pozn and is_blocked_pozn(raw_name):
-                          blocked_by_format.setdefault(idx, set()).add(raw_name)
-                        elif not is_unsupported_format(
-                            raw_name,
-                            allow_all_formats=allow_all,
-                            is_history2=is_history2,
-                        ):
-                          candidates.append(
-                              (src, idx, w, grp, current_info, line)
-                          )
-                          tested_per_source[src] += 1
-                        else:
-                          blocked_by_format.setdefault(idx, set()).add(raw_name)
-                        break
+                        if is_channel_match(w, name_lower, allow_all):
+                            if is_pozn and is_blocked_pozn(raw_name):
+                                blocked_by_format.setdefault(idx, set()).add(raw_name)
+                            elif not is_unsupported_format(
+                                raw_name,
+                                allow_all_formats=allow_all,
+                                is_history2=is_history2,
+                            ):
+                                candidates.append(
+                                    (src, idx, w, grp, current_info, line)
+                                )
+                                tested_per_source[src] += 1
+                            else:
+                                blocked_by_format.setdefault(idx, set()).add(raw_name)
+                            break
 
                 current_info = ""
 
@@ -468,7 +468,6 @@ def main():
     for idx in valid_by_idx:
         _, grp_name = wanted_list[idx]
         valid_by_idx[idx] = select_channel_streams(valid_by_idx[idx], grp_name)
-
 
     seen_names = {}
     total_streams = 0
@@ -534,43 +533,45 @@ def main():
                 clean_info = f'#EXTINF:-1{id_part}{logo_part}{catchup_tags} group-title="{group_name}",{final_name}'
                 out.write(f"{clean_info}\n#EXTGRP:{group_name}\n{url}\n")
 
-    print("\n" + "=" * 45)
-    print("🩺 ЗДОРОВЬЕ ИСТОЧНИКОВ iLook")
-    print("=" * 45)
-    dead_sources = []
+    report_lines = []
+    report_lines.append("🩺 ЗДОРОВЬЕ ИСТОЧНИКОВ iLook")
     for src in SOURCE_FILES:
         tested = tested_per_source[src]
         alive = alive_per_source[src]
         if tested == 0:
-            print(f"⚪ {src} — файл пуст или не загружен")
+            report_lines.append(f"⚪ {src} — пуст или не найден")
         elif alive == 0:
-            print(f"❌ {src} — УПАЛ! (0 из {tested} потоков — пора менять лист или ключ!)")
-            dead_sources.append(src)
+            report_lines.append(f"❌ {src} — УПАЛ! (0 из {tested})")
         else:
-            print(f"✅ {src} — ЖИВОЙ (рабочих потоков: {alive} из {tested})")
+            report_lines.append(f"✅ {src} — живой ({alive} из {tested})")
 
     missing = []
     for idx, (w, grp) in enumerate(wanted_list):
         if idx not in found_indices:
             reason = ""
             if idx in blocked_by_format:
-                reason = f" — отсеян фильтром формата ({', '.join(list(blocked_by_format[idx])[:2])})"
-            missing.append(f"  - {w} (группа: {grp}){reason}")
+                reason = f" — отсеян фильтром ({', '.join(list(blocked_by_format[idx])[:2])})"
+            missing.append(f"• {w} ({grp}){reason}")
 
-    print("\n" + "=" * 45)
-    print("📊 ОТЧЁТ О СБОРКЕ ПЛЕЙЛИСТА")
-    print("=" * 45)
-    print(f"✅ Найдено каналов: {len(found_indices)} из {len(wanted_list)}")
-    print(f"📌 Закреплено потоков: {sum(len(v) for v in pinned_by_idx.values())}")
-    print(f"📺 Всего рабочих потоков: {total_streams}")
+    report_lines.append("")
+    report_lines.append("📊 ИТОГИ СБОРКИ iLook TV")
+    report_lines.append(f"✅ Найдено каналов: {len(found_indices)} из {len(wanted_list)}")
+    report_lines.append(f"📌 Закреплено потоков: {sum(len(v) for v in pinned_by_idx.values())}")
+    report_lines.append(f"📺 Всего рабочих потоков: {total_streams}")
+
     if missing:
-        print(f"❌ Не найдено каналов ({len(missing)}):")
-        for m in missing:
-            print(m)
+        report_lines.append(f"❌ Не найдено ({len(missing)}):")
+        report_lines.extend(missing[:20])
+        if len(missing) > 20:
+            report_lines.append(f"...и ещё {len(missing) - 20} шт.")
     else:
-        print("🎉 Отлично! Найдены абсолютно все каналы из списка!")
-    print("=" * 45 + "\n")
+        report_lines.append("🎉 Найдены все каналы из списка!")
 
+    report_text = "\n".join(report_lines)
+    print("\n" + report_text + "\n")
+
+    with open("report.txt", "w", encoding="utf-8") as rf:
+        rf.write(report_text + "\n")
 
 
 if __name__ == "__main__":
