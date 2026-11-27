@@ -310,8 +310,8 @@ def select_channel_streams(streams, group_name=""):
     for s in streams:
         grp_val, info_val, url_val, ping_val = s
         if url_val not in seen_urls:
-          seen_urls.add(url_val)
-          unique.append(s)
+            seen_urls.add(url_val)
+            unique.append(s)
 
     grp_low = re.sub(r'^[^\wа-яёa-z0-9]+', '', group_name.lower()).strip()
 
@@ -360,8 +360,8 @@ def select_channel_streams(streams, group_name=""):
 
         return result[:5]
 
-    # Новая логика для группы "Эфирные" (3 лучших HD + 4-й слот лёгкий не выше 720p)
-    if grp_low == "эфирные":
+    # Логика для группы "Эфирные" / "Эфирная" (до 3 HD + 1 лёгкий, но минимум 3 потока при наличии)
+    if grp_low in ("эфирные", "эфирная"):
         hd_streams = []
         light_720 = []
         light_plain = []
@@ -376,27 +376,25 @@ def select_channel_streams(streams, group_name=""):
                 light_plain.append(s)
 
         result = hd_streams[:3]
-        # 4-й слот: лёгкий поток (сначала обычный без HD, если нет — 720p)
-        fourth = None
-        if light_plain:
-            fourth = light_plain.pop(0)
-        elif light_720:
-            fourth = light_720.pop(0)
 
-        if fourth:
-            result.append(fourth)
-        elif not result and unique:
-            result.append(unique[0])
+        # 4-й слот: лёгкий поток (сначала обычный без HD, если нет — 720p)
+        if light_plain:
+            result.append(light_plain.pop(0))
+        elif light_720:
+            result.append(light_720.pop(0))
+
+        # Если потоков меньше 3 (например, нет HD как у "Оружия" или только 1 HD как у "Санкт-Петербурга"),
+        # добиваем до 3 потоков из оставшихся рабочих (сначала обычные, затем 720p, затем оставшиеся HD)
+        fallback_pool = light_plain + light_720 + hd_streams[3:]
+        for s in fallback_pool:
+            if len(result) >= 3:
+                break
+            result.append(s)
 
         return result[:4]
 
     # Все остальные группы — как раньше (3 потока)
     return unique[:MAX_STREAMS_PER_CHANNEL]
-
-
-
-
-
 
 
 def main():
