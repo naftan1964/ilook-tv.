@@ -21,17 +21,30 @@ jobs:
           fetch-depth: 0
       - name: Run script
         run: python3 update.py
+      - name: Send Telegram report
+        if: always() && env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -f report.txt ]; then
+            TEXT=$(head -c 3800 report.txt)
+            curl -s -X POST "https://telegram.org{TELEGRAM_BOT_TOKEN}/sendMessage" \
+              --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+              --data-urlencode "text=${TEXT}" > /dev/null
+          fi
       - name: Save playlist
         if: always()
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add pl_9x8k2m.m3u
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add pl_9x8k2m.m3u report.txt
           if ! git diff --staged --quiet; then
             git commit -m "Update iLook playlist"
             git pull --rebase --autostash origin main
             git push origin main
           fi
+
 
 
 
