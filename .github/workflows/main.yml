@@ -20,23 +20,10 @@ jobs:
         with:
           fetch-depth: 0
       - name: Run script
-        run: python3 update.py
-      - name: Send Telegram report
-        if: always()
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          TOKEN=$(echo "$TELEGRAM_BOT_TOKEN" | grep -oE '[0-9]+:[A-Za-z0-9_-]+' | head -n 1)
-          CHAT_ID=$(echo "$TELEGRAM_CHAT_ID" | tr -cd '0-9-')
-          if [ -n "$TOKEN" ] && [ -n "$CHAT_ID" ] && [ -f report.txt ]; then
-            TEXT=$(head -c 3800 report.txt)
-            curl -s -X POST "https://telegram.org{TOKEN}/sendMessage" \
-              --data-urlencode "chat_id=${CHAT_ID}" \
-              --data-urlencode "text=${TEXT}"
-          else
-            echo "Не удалось распознать токен или chat_id"
-          fi
+        run: python3 update.py
       - name: Save playlist
         if: always()
         run: |
