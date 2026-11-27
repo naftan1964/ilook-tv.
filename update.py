@@ -567,13 +567,42 @@ def main():
     else:
         report_lines.append("🎉 Найдены все каналы из списка!")
 
-    report_text = "\n".join(report_lines)
+        report_text = "\n".join(report_lines)
     print("\n" + report_text + "\n")
 
     with open("report.txt", "w", encoding="utf-8") as rf:
         rf.write(report_text + "\n")
 
+    send_telegram_report(report_text)
+
+
+def send_telegram_report(text):
+    raw_token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    raw_chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
+
+    m_token = re.search(r"\d+:[A-Za-z0-9_-]+", raw_token)
+    chat_id = re.sub(r"[^0-9-]", "", raw_chat_id)
+
+    if not m_token or not chat_id:
+        print("⚠️ Секреты TELEGRAM_BOT_TOKEN или TELEGRAM_CHAT_ID не заданы.")
+        return
+
+    token = m_token.group(0)
+    api_url = f"https://telegram.org{token}/sendMessage"
+    payload = urllib.parse.urlencode({
+        "chat_id": chat_id,
+        "text": text[:3800],
+    }).encode("utf-8")
+
+    try:
+        req = urllib.request.Request(api_url, data=payload, method="POST")
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            print("📨 Ответ Telegram:", resp.read().decode("utf-8", errors="ignore"))
+    except Exception as e:
+        print(f"❌ Ошибка отправки в Telegram: {e}")
+
 
 if __name__ == "__main__":
     main()
+
 
