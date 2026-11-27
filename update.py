@@ -3,10 +3,12 @@ import re
 import sys
 import time
 import gzip
+import urllib.parse
 import urllib.request
 import concurrent.futures
 import xml.etree.ElementTree as ET
-from urllib.parse import urllib.parse и from urllib.parse import urljoin)
+from urllib.parse import urljoin
+
 
 USER_AGENT = "Mozilla/5.0"
 TIMEOUT = 10
