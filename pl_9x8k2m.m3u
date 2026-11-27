@@ -7,7 +7,7 @@ http://live.ru-tv.site/8156/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/213/index.m3u8
 #EXTINF:-1 tvg-id="162" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9081748a3202bdd11154e1c109ce44ec9befcf54.png" group-title="📺Эфирные",НТВ HD (3)
 #EXTGRP:📺Эфирные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/213/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/213/index.m3u8
 #EXTINF:-1 tvg-id="162" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9081748a3202bdd11154e1c109ce44ec9befcf54.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8003/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",НТВ
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8003/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -16,10 +16,10 @@ http://live.ru-tv.site/8003/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://live.ru-tv.site/8152/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="711" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/20f1bddab03c01991592fc1a154f15ddb3b2e354.png" group-title="📺Эфирные",Россия 1 HD (2)
 #EXTGRP:📺Эфирные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/205/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/205/index.m3u8
 #EXTINF:-1 tvg-id="711" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/20f1bddab03c01991592fc1a154f15ddb3b2e354.png" group-title="📺Эфирные",Россия 1 HD (3)
 #EXTGRP:📺Эфирные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/205/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/205/index.m3u8
 #EXTINF:-1 tvg-id="711" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/20f1bddab03c01991592fc1a154f15ddb3b2e354.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8002/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",Россия 1
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8002/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -31,7 +31,7 @@ http://live.ru-tv.site/8150/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/204/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a9a40cbba064bce348a8db9114a8d55b9159bc65.png" group-title="📺Эфирные",Первый канал HD (3)
 #EXTGRP:📺Эфирные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/204/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/204/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a9a40cbba064bce348a8db9114a8d55b9159bc65.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8001/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",Первый канал
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8001/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -44,30 +44,30 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2024/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8a5dcf601661a82bf7cd02afb45589bd746f3d82.png" group-title="📺Эфирные",РЕН ТВ HD (3)
 #EXTGRP:📺Эфирные
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2024/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8a5dcf601661a82bf7cd02afb45589bd746f3d82.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8004/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",РЕН ТВ
+#EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8a5dcf601661a82bf7cd02afb45589bd746f3d82.png" group-title="📺Эфирные",РЕН ТВ
 #EXTGRP:📺Эфирные
-http://live.ru-tv.site/8004/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/128/index.m3u8
 #EXTINF:-1 tvg-id="4661" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/06be897cf468ad71f77890859c542ae300e674bb.png" group-title="📺Эфирные",Звезда Плюс HD
 #EXTGRP:📺Эфирные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/19230/index.m3u8
 #EXTINF:-1 tvg-id="4661" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/06be897cf468ad71f77890859c542ae300e674bb.png" group-title="📺Эфирные",Звезда Плюс HD (2)
 #EXTGRP:📺Эфирные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/19230/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/19230/index.m3u8
 #EXTINF:-1 tvg-id="4661" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/06be897cf468ad71f77890859c542ae300e674bb.png" group-title="📺Эфирные",Звезда Плюс HD (3)
 #EXTGRP:📺Эфирные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/19230/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/19230/index.m3u8
 #EXTINF:-1 tvg-id="4661" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/06be897cf468ad71f77890859c542ae300e674bb.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8403/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="📺Эфирные",ЗВЕЗДА Плюс
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8403/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="405" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/650200127e7c0b044485df1ff8c2e6801b7c4de2.png" group-title="📺Эфирные",Звезда HD
 #EXTGRP:📺Эфирные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15115/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15115/index.m3u8
 #EXTINF:-1 tvg-id="405" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/650200127e7c0b044485df1ff8c2e6801b7c4de2.png" group-title="📺Эфирные",Звезда HD (2)
 #EXTGRP:📺Эфирные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15115/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15115/index.m3u8
 #EXTINF:-1 tvg-id="405" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/650200127e7c0b044485df1ff8c2e6801b7c4de2.png" group-title="📺Эфирные",Звезда HD (3)
 #EXTGRP:📺Эфирные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15115/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15115/index.m3u8
 #EXTINF:-1 tvg-id="405" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/650200127e7c0b044485df1ff8c2e6801b7c4de2.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8037/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",Звезда
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8037/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -76,10 +76,10 @@ http://live.ru-tv.site/8037/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/7347/index.m3u8
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b4d9b938877d750a76c0d1a3d88306ad50cb1577.png" group-title="📺Эфирные",Мосфильм. Золотая коллекция HD (2)
 #EXTGRP:📺Эфирные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7347/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7347/index.m3u8
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b4d9b938877d750a76c0d1a3d88306ad50cb1577.png" group-title="📺Эфирные",Мосфильм. Золотая коллекция HD (3)
 #EXTGRP:📺Эфирные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7347/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7347/index.m3u8
 #EXTINF:-1 tvg-id="3357" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b4d9b938877d750a76c0d1a3d88306ad50cb1577.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8707/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",Мосфильм. Золотая коллекция
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8707/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -88,16 +88,28 @@ http://live.ru-tv.site/8707/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://live.ru-tv.site/9220/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2768" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/55cad2e7873bcd2811dd1c574c408e56d53afd8d.png" group-title="📺Эфирные",Арсенал HD (2)
 #EXTGRP:📺Эфирные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/5044/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/5044/index.m3u8
 #EXTINF:-1 tvg-id="2768" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/55cad2e7873bcd2811dd1c574c408e56d53afd8d.png" group-title="📺Эфирные",Арсенал HD (3)
 #EXTGRP:📺Эфирные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/5044/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/5044/index.m3u8
 #EXTINF:-1 tvg-id="2430" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a19727b23bf3ab20297e4ea4628272c4d3212957.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8206/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",Оружие
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8206/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
+#EXTINF:-1 tvg-id="2430" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a19727b23bf3ab20297e4ea4628272c4d3212957.png" group-title="📺Эфирные",Оружие (2)
+#EXTGRP:📺Эфирные
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2087/index.m3u8
+#EXTINF:-1 tvg-id="2430" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a19727b23bf3ab20297e4ea4628272c4d3212957.png" group-title="📺Эфирные",Оружие (3)
+#EXTGRP:📺Эфирные
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2087/index.m3u8
 #EXTINF:-1 tvg-id="2762" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e0fc066b5c9b2c474ef52a808f0a630cce22dcef.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8196/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",Т24
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8196/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
+#EXTINF:-1 tvg-id="2762" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e0fc066b5c9b2c474ef52a808f0a630cce22dcef.png" group-title="📺Эфирные",Т24 (2)
+#EXTGRP:📺Эфирные
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/5047/index.m3u8
+#EXTINF:-1 tvg-id="2762" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e0fc066b5c9b2c474ef52a808f0a630cce22dcef.png" group-title="📺Эфирные",Т24 (3)
+#EXTGRP:📺Эфирные
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/5047/index.m3u8
 #EXTINF:-1 tvg-id="726" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7fa7cae6b475381fb2d6135502675dc2eed66f51.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8560/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="📺Эфирные",Мир HD
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8560/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -106,25 +118,28 @@ http://live.ru-tv.site/8560/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15119/index.m3u8
 #EXTINF:-1 tvg-id="726" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7fa7cae6b475381fb2d6135502675dc2eed66f51.png" group-title="📺Эфирные",Мир HD (3)
 #EXTGRP:📺Эфирные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15119/index.m3u8
-#EXTINF:-1 tvg-id="726" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7fa7cae6b475381fb2d6135502675dc2eed66f51.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8641/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",Мир
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15119/index.m3u8
+#EXTINF:-1 tvg-id="726" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7fa7cae6b475381fb2d6135502675dc2eed66f51.png" group-title="📺Эфирные",Мир
 #EXTGRP:📺Эфирные
-http://live.ru-tv.site/8641/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/113/index.m3u8
 #EXTINF:-1 tvg-id="690" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c709468dd53356a719570da3da01ca4b7f2af4da.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8550/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📺Эфирные",Санкт-Петербург HD
 #EXTGRP:📺Эфирные
 http://live.ru-tv.site/8550/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="690" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c709468dd53356a719570da3da01ca4b7f2af4da.png" group-title="📺Эфирные",Санкт-Петербург
 #EXTGRP:📺Эфирные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/715/index.m3u8
+#EXTINF:-1 tvg-id="690" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c709468dd53356a719570da3da01ca4b7f2af4da.png" group-title="📺Эфирные",Санкт-Петербург (2)
+#EXTGRP:📺Эфирные
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/715/index.m3u8
 #EXTINF:-1 tvg-id="1683" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/84b319a7234fdfdcf1cd5bd7f8413017fa11bfe7.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8125/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📡Новостные",Россия 24
 #EXTGRP:📡Новостные
 http://live.ru-tv.site/8125/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="1683" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/84b319a7234fdfdcf1cd5bd7f8413017fa11bfe7.png" group-title="📡Новостные",Россия 24 HD
 #EXTGRP:📡Новостные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15412/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15412/index.m3u8
 #EXTINF:-1 tvg-id="1683" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/84b319a7234fdfdcf1cd5bd7f8413017fa11bfe7.png" group-title="📡Новостные",Россия 24 HD (2)
 #EXTGRP:📡Новостные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15412/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15412/index.m3u8
 #EXTINF:-1 tvg-id="2547" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8ac95605a26dee37a88138f82f7b44169f5e427c.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8121/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="📡Новостные",РТР-Планета
 #EXTGRP:📡Новостные
 http://live.ru-tv.site/8121/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -133,7 +148,7 @@ http://live.ru-tv.site/8121/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/18042/index.m3u8
 #EXTINF:-1 tvg-id="2547" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8ac95605a26dee37a88138f82f7b44169f5e427c.png" group-title="📡Новостные",РТР Планета (2)
 #EXTGRP:📡Новостные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/18042/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/18042/index.m3u8
 #EXTINF:-1 tvg-id="334" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f3f88a4b6c0879cc5f7c445ee5825cebe7d903d0.png" catchup-days="0" group-title="📡Новостные",Москва 24
 #EXTGRP:📡Новостные
 http://live.ru-tv.site/8365/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -148,10 +163,10 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/523/index.m3u8
 http://live.ru-tv.site/8071/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2078" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/02cdc879c1d60fb90f6e5b17c874ab4197e9faf6.png" group-title="📡Новостные",Мир 24 HD
 #EXTGRP:📡Новостные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2107/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2107/index.m3u8
 #EXTINF:-1 tvg-id="2078" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/02cdc879c1d60fb90f6e5b17c874ab4197e9faf6.png" group-title="📡Новостные",Мир 24 HD (2)
 #EXTGRP:📡Новостные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2107/index.m3u8
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/2107/index.m3u8
 #EXTINF:-1 tvg-id="2266" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ea3177bbacb861863f5bc3a09d5026a945e16309.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8084/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="📡Новостные",EuroNews
 #EXTGRP:📡Новостные
 http://live.ru-tv.site/8084/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -166,7 +181,7 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/828/index.m3u8
 http://live.ru-tv.site/8221/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2271" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e4de029e4607e2003a20c5826154fa9b40c8b10d.png" group-title="📡Новостные",Известия HD
 #EXTGRP:📡Новостные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/18039/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/18039/index.m3u8
 #EXTINF:-1 tvg-id="2271" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e4de029e4607e2003a20c5826154fa9b40c8b10d.png" group-title="📡Новостные",Известия HD (2)
 #EXTGRP:📡Новостные
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/18039/index.m3u8
@@ -178,7 +193,7 @@ http://live.ru-tv.site/8575/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2064/index.m3u8
 #EXTINF:-1 tvg-id="2400" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f3be0675e91ca380371ef37da482fce9f97ccf0a.png" group-title="📡Новостные",Центральное телевидение (3)
 #EXTGRP:📡Новостные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2064/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2064/index.m3u8
 #EXTINF:-1 tvg-id="743" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/fc5f9782ade08228a33ebb347f22fb9f47fc3c0a.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8197/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="📡Новостные",РБК
 #EXTGRP:📡Новостные
 http://live.ru-tv.site/8197/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -193,10 +208,10 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/16075/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/18038/index.m3u8
 #EXTINF:-1 tvg-id="4458" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1a8ad254dc5b89daa7656cd54ec98b883058e32d.png" group-title="📡Новостные",360 Новости HD (2)
 #EXTGRP:📡Новостные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/18038/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/18038/index.m3u8
 #EXTINF:-1 tvg-id="4458" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1a8ad254dc5b89daa7656cd54ec98b883058e32d.png" group-title="📡Новостные",360 Новости HD (3)
 #EXTGRP:📡Новостные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/18038/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/18038/index.m3u8
 #EXTINF:-1 tvg-id="2051" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a3e67093190747a282a9f7f73b82f6bc3fb8fa3e.png" group-title="🏆Спортивные",Матч ТВ HD orig
 #EXTGRP:🏆Спортивные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/32000/index.m3u8
@@ -205,10 +220,10 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/32000/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/212/index.m3u8
 #EXTINF:-1 tvg-id="2051" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a3e67093190747a282a9f7f73b82f6bc3fb8fa3e.png" group-title="🏆Спортивные",Матч ТВ HD (2)
 #EXTGRP:🏆Спортивные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/212/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/212/index.m3u8
 #EXTINF:-1 tvg-id="2051" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a3e67093190747a282a9f7f73b82f6bc3fb8fa3e.png" group-title="🏆Спортивные",Матч ТВ HD (3)
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/212/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/212/index.m3u8
 #EXTINF:-1 tvg-id="2051" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a3e67093190747a282a9f7f73b82f6bc3fb8fa3e.png" group-title="🏆Спортивные",Матч ТВ
 #EXTGRP:🏆Спортивные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/535/index.m3u8
@@ -220,7 +235,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2414/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/220/index.m3u8
 #EXTINF:-1 tvg-id="2250" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e907f0d73d23fa1e89d3b639d44edb807b52204e.png" group-title="🏆Спортивные",Матч! Премьер HD (2)
 #EXTGRP:🏆Спортивные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/220/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/220/index.m3u8
 #EXTINF:-1 tvg-id="2250" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e907f0d73d23fa1e89d3b639d44edb807b52204e.png" group-title="🏆Спортивные",Матч! Премьер HD (3)
 #EXTGRP:🏆Спортивные
 http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/220/index.m3u8
@@ -250,10 +265,10 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/290/index.m3u8
 http://live.ru-tv.site/8237/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="1042" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/63faed532f8b8f6a0387fe38614347213f708d60.png" group-title="🏆Спортивные",Матч! Футбол 2 HD (2)
 #EXTGRP:🏆Спортивные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/211/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/211/index.m3u8
 #EXTINF:-1 tvg-id="1042" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/63faed532f8b8f6a0387fe38614347213f708d60.png" group-title="🏆Спортивные",Матч! Футбол 2 HD (3)
 #EXTGRP:🏆Спортивные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/211/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/211/index.m3u8
 #EXTINF:-1 tvg-id="1042" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/63faed532f8b8f6a0387fe38614347213f708d60.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8022/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🏆Спортивные",МАТЧ! ФУТБОЛ 2
 #EXTGRP:🏆Спортивные
 http://live.ru-tv.site/8022/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -268,7 +283,7 @@ http://live.ru-tv.site/8238/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/206/index.m3u8
 #EXTINF:-1 tvg-id="2005" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/bcac36a857b9ac7007e3f106f4104e1160a45882.png" group-title="🏆Спортивные",Матч! Футбол 3 HD (3)
 #EXTGRP:🏆Спортивные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/206/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/206/index.m3u8
 #EXTINF:-1 tvg-id="2005" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/bcac36a857b9ac7007e3f106f4104e1160a45882.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8029/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🏆Спортивные",МАТЧ! ФУТБОЛ 3
 #EXTGRP:🏆Спортивные
 http://live.ru-tv.site/8029/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -277,10 +292,10 @@ http://live.ru-tv.site/8029/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://live.ru-tv.site/8694/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2541" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f68c424fb9a73f7f53934a15e857e4eac1e58b6d.png" group-title="🏆Спортивные",Беларусь 5 HD BY (2)
 #EXTGRP:🏆Спортивные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2177/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2177/index.m3u8
 #EXTINF:-1 tvg-id="2541" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f68c424fb9a73f7f53934a15e857e4eac1e58b6d.png" group-title="🏆Спортивные",Беларусь 5 HD BY (3)
 #EXTGRP:🏆Спортивные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2177/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2177/index.m3u8
 #EXTINF:-1 tvg-id="2541" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f68c424fb9a73f7f53934a15e857e4eac1e58b6d.png" group-title="🏆Спортивные",Беларусь 5 HD BY (4)
 #EXTGRP:🏆Спортивные
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2177/index.m3u8
@@ -289,40 +304,40 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2177/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/5060/index.m3u8
 #EXTINF:-1 tvg-id="9648" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/76c2b6dd5aafbd6a879c065c83469bed08f59e74.png" group-title="🏆Спортивные",Megogo Спорт HD
 #EXTGRP:🏆Спортивные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31612/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31612/index.m3u8
 #EXTINF:-1 tvg-id="9648" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/76c2b6dd5aafbd6a879c065c83469bed08f59e74.png" group-title="🏆Спортивные",Megogo Спорт HD (2)
 #EXTGRP:🏆Спортивные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31612/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31612/index.m3u8
 #EXTINF:-1 tvg-id="9648" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/76c2b6dd5aafbd6a879c065c83469bed08f59e74.png" group-title="🏆Спортивные",Megogo Спорт HD (3)
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31612/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31612/index.m3u8
 #EXTINF:-1 tvg-id="9648" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/76c2b6dd5aafbd6a879c065c83469bed08f59e74.png" group-title="🏆Спортивные",Megogo Спорт HD (4)
 #EXTGRP:🏆Спортивные
 http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/31612/index.m3u8
 #EXTINF:-1 tvg-id="7517" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3ca9c1a32808af6a44f9f37a8b1b8ab5c02d2664.png" group-title="🏆Спортивные",Setanta Sports 1 HD orig
 #EXTGRP:🏆Спортивные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6541/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6541/index.m3u8
 #EXTINF:-1 tvg-id="7517" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3ca9c1a32808af6a44f9f37a8b1b8ab5c02d2664.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8565/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="🏆Спортивные",Setanta Sports 1 HD
 #EXTGRP:🏆Спортивные
 http://live.ru-tv.site/8565/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="7517" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3ca9c1a32808af6a44f9f37a8b1b8ab5c02d2664.png" group-title="🏆Спортивные",Setanta Sports 1 HD (2)
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/271/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/271/index.m3u8
 #EXTINF:-1 tvg-id="7517" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3ca9c1a32808af6a44f9f37a8b1b8ab5c02d2664.png" group-title="🏆Спортивные",Setanta Sports 1 HD (3)
 #EXTGRP:🏆Спортивные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/271/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/271/index.m3u8
 #EXTINF:-1 tvg-id="7517" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3ca9c1a32808af6a44f9f37a8b1b8ab5c02d2664.png" group-title="🏆Спортивные",Setanta Sports 1
 #EXTGRP:🏆Спортивные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6543/index.m3u8
 #EXTINF:-1 tvg-id="2363" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a5cc15f8c430c26af67a8f43232fef2a2b458bd2.png" group-title="🏆Спортивные",Setanta Sports 2 HD orig
 #EXTGRP:🏆Спортивные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6542/index.m3u8
-#EXTINF:-1 tvg-id="2363" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a5cc15f8c430c26af67a8f43232fef2a2b458bd2.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8676/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🏆Спортивные",Setanta Sports 2 HD
-#EXTGRP:🏆Спортивные
-http://live.ru-tv.site/8676/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="2363" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a5cc15f8c430c26af67a8f43232fef2a2b458bd2.png" group-title="🏆Спортивные",Setanta Sports 2 HD (2)
+#EXTINF:-1 tvg-id="2363" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a5cc15f8c430c26af67a8f43232fef2a2b458bd2.png" group-title="🏆Спортивные",Setanta Sports 2 HD
 #EXTGRP:🏆Спортивные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/270/index.m3u8
+#EXTINF:-1 tvg-id="2363" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a5cc15f8c430c26af67a8f43232fef2a2b458bd2.png" group-title="🏆Спортивные",Setanta Sports 2 HD (2)
+#EXTGRP:🏆Спортивные
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/270/index.m3u8
 #EXTINF:-1 tvg-id="2363" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a5cc15f8c430c26af67a8f43232fef2a2b458bd2.png" group-title="🏆Спортивные",Setanta Sports 2 HD (3)
 #EXTGRP:🏆Спортивные
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/270/index.m3u8
@@ -331,19 +346,19 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/270/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6544/index.m3u8
 #EXTINF:-1 tvg-id="2055" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/38740fa331d78afe07c126a662a51f2c5e5a9871.png" group-title="🏆Спортивные",Viju+ Sport HD orig
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/5065/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/5065/index.m3u8
 #EXTINF:-1 tvg-id="2055" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/38740fa331d78afe07c126a662a51f2c5e5a9871.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8015/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🏆Спортивные",viju+ Sport HD
 #EXTGRP:🏆Спортивные
 http://live.ru-tv.site/8015/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2055" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/38740fa331d78afe07c126a662a51f2c5e5a9871.png" group-title="🏆Спортивные",Viju+ Sport HD (2)
 #EXTGRP:🏆Спортивные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2007/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2007/index.m3u8
 #EXTINF:-1 tvg-id="2055" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/38740fa331d78afe07c126a662a51f2c5e5a9871.png" group-title="🏆Спортивные",Viju+ Sport HD (3)
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2007/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2007/index.m3u8
 #EXTINF:-1 tvg-id="2055" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/38740fa331d78afe07c126a662a51f2c5e5a9871.png" group-title="🏆Спортивные",Viju+ Sport
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/160/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/160/index.m3u8
 #EXTINF:-1 tvg-id="9325" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8ad7095a2fdc67d55da4fe0f5c4f54defe6f461f.png" group-title="🏆Спортивные",Окко Футбол HD
 #EXTGRP:🏆Спортивные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6554/index.m3u8
@@ -361,10 +376,10 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/19430/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20135/index.m3u8
 #EXTINF:-1 tvg-id="9324" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a0c5e45371f671b368c91893965a6ea5e372c59b.png" group-title="🏆Спортивные",Окко Прайм Спорт HD (2)
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20135/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20135/index.m3u8
 #EXTINF:-1 tvg-id="9324" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a0c5e45371f671b368c91893965a6ea5e372c59b.png" group-title="🏆Спортивные",Окко Прайм Спорт HD (3)
 #EXTGRP:🏆Спортивные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20135/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20135/index.m3u8
 #EXTINF:-1 tvg-id="9324" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a0c5e45371f671b368c91893965a6ea5e372c59b.png" group-title="🏆Спортивные",Окко Прайм Спорт HD (4)
 #EXTGRP:🏆Спортивные
 http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/20135/index.m3u8
@@ -373,16 +388,16 @@ http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/20135/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20138/index.m3u8
 #EXTINF:-1 tvg-id="7889" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5d7d5220efff82ba5f3e572a0b457535359c9980.png" group-title="🏆Спортивные",Окко Спорт HD (2)
 #EXTGRP:🏆Спортивные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20138/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20138/index.m3u8
 #EXTINF:-1 tvg-id="7889" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5d7d5220efff82ba5f3e572a0b457535359c9980.png" group-title="🏆Спортивные",Окко Спорт HD (3)
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20138/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20138/index.m3u8
 #EXTINF:-1 tvg-id="7889" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5d7d5220efff82ba5f3e572a0b457535359c9980.png" group-title="🏆Спортивные",Окко Спорт HD (4)
 #EXTGRP:🏆Спортивные
 http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/20138/index.m3u8
 #EXTINF:-1 tvg-id="5883" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/35d1aa03206e3eb510dd8f0d038bc75799dddd55.png" group-title="🏆Спортивные",Eurosport 1 HD orig
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/5075/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/5075/index.m3u8
 #EXTINF:-1 tvg-id="5883" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/35d1aa03206e3eb510dd8f0d038bc75799dddd55.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8178/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🏆Спортивные",Eurosport 1 HD
 #EXTGRP:🏆Спортивные
 http://live.ru-tv.site/8178/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -439,10 +454,10 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/19396/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/9250/index.m3u8
 #EXTINF:-1 tvg-id="2048" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d185d4b1de5ad6b95fb145458862612ffb6439c3.png" group-title="🏆Спортивные",KHL HD
 #EXTGRP:🏆Спортивные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/215/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/215/index.m3u8
 #EXTINF:-1 tvg-id="2048" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d185d4b1de5ad6b95fb145458862612ffb6439c3.png" group-title="🏆Спортивные",KHL HD (2)
 #EXTGRP:🏆Спортивные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/215/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/215/index.m3u8
 #EXTINF:-1 tvg-id="2048" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d185d4b1de5ad6b95fb145458862612ffb6439c3.png" group-title="🏆Спортивные",KHL HD (3)
 #EXTGRP:🏆Спортивные
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/215/index.m3u8
@@ -466,43 +481,43 @@ http://live.ru-tv.site/8109/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/201/index.m3u8
 #EXTINF:-1 tvg-id="1012" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/43881c96582aa648e80236138e99cb0966cae9ac.png" group-title="🍹Кино и сериалы",Viju+ Megahit HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/201/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/201/index.m3u8
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e7db5047ba4726631ba519b5e25228ac03f00c58.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8108/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",viju+ Comedy HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8108/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e7db5047ba4726631ba519b5e25228ac03f00c58.png" group-title="🍹Кино и сериалы",Viju+ Comedy HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/200/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/200/index.m3u8
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e7db5047ba4726631ba519b5e25228ac03f00c58.png" group-title="🍹Кино и сериалы",Viju+ Comedy HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/200/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/200/index.m3u8
 #EXTINF:-1 tvg-id="125" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/35f704506f04c1510598e65e86077db4dc7a5dcb.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8049/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",viju TV1000 action HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8049/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="125" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/35f704506f04c1510598e65e86077db4dc7a5dcb.png" group-title="🍹Кино и сериалы",Viju TV1000 Action HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6386/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6386/index.m3u8
 #EXTINF:-1 tvg-id="125" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/35f704506f04c1510598e65e86077db4dc7a5dcb.png" group-title="🍹Кино и сериалы",Viju TV1000 Action HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6386/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6386/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/017e28d76d8356a888874c4732826da3214d0fc3.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8048/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",viju TV1000 HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8048/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="127" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/017e28d76d8356a888874c4732826da3214d0fc3.png" group-title="🍹Кино и сериалы",Viju TV1000 HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6387/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6387/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/017e28d76d8356a888874c4732826da3214d0fc3.png" group-title="🍹Кино и сериалы",Viju TV1000 HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6387/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6387/index.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b317f300f2b9cbb7fd29854cc7d43e65c822c8a8.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8050/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",viju TV1000 русское HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8050/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="267" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b317f300f2b9cbb7fd29854cc7d43e65c822c8a8.png" group-title="🍹Кино и сериалы",Viju TV1000 Русское HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6388/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6388/index.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b317f300f2b9cbb7fd29854cc7d43e65c822c8a8.png" group-title="🍹Кино и сериалы",Viju TV1000 Русское HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/6388/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6388/index.m3u8
 #EXTINF:-1 tvg-id="1584" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ca1fa6c09c094b05f049846d1c71fa295e2947ee.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8070/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",МУЖСКОЕ КИНО
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8070/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -511,7 +526,7 @@ http://live.ru-tv.site/8070/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10045/index.m3u8
 #EXTINF:-1 tvg-id="1584" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ca1fa6c09c094b05f049846d1c71fa295e2947ee.png" group-title="🍹Кино и сериалы",Мужское Кино HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10045/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10045/index.m3u8
 #EXTINF:-1 tvg-id="542" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/76c72ae621baf82de701b19f6ec31584c3d26276.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8039/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",КИНОХИТ
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8039/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -520,16 +535,16 @@ http://live.ru-tv.site/8039/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/7250/index.m3u8
 #EXTINF:-1 tvg-id="542" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/76c72ae621baf82de701b19f6ec31584c3d26276.png" group-title="🍹Кино и сериалы",Кинохит HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7250/index.m3u8
-#EXTINF:-1 tvg-id="644" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2c0f50ed59def6e353751d0f934bcbcc1404c150.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8040/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",КИНОМИКС
-#EXTGRP:🍹Кино и сериалы
-http://live.ru-tv.site/8040/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7250/index.m3u8
 #EXTINF:-1 tvg-id="644" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2c0f50ed59def6e353751d0f934bcbcc1404c150.png" group-title="🍹Кино и сериалы",Киномикс HD
 #EXTGRP:🍹Кино и сериалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/7249/index.m3u8
 #EXTINF:-1 tvg-id="644" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2c0f50ed59def6e353751d0f934bcbcc1404c150.png" group-title="🍹Кино и сериалы",Киномикс HD (2)
 #EXTGRP:🍹Кино и сериалы
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7249/index.m3u8
+#EXTINF:-1 tvg-id="644" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2c0f50ed59def6e353751d0f934bcbcc1404c150.png" group-title="🍹Кино и сериалы",Киномикс HD (3)
+#EXTGRP:🍹Кино и сериалы
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7249/index.m3u8
 #EXTINF:-1 tvg-id="566" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/131bcfbee16ea23025a4bf866f9913e6c29b0e41.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8199/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",КИНОПРЕМЬЕРА
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8199/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -538,16 +553,16 @@ http://live.ru-tv.site/8199/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/224/index.m3u8
 #EXTINF:-1 tvg-id="566" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/131bcfbee16ea23025a4bf866f9913e6c29b0e41.png" group-title="🍹Кино и сериалы",Кинопремьера HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/224/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/224/index.m3u8
 #EXTINF:-1 tvg-id="485" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c836b07f02dd8b02521f3073d878fa521cf6b824.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8044/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",НАШЕ НОВОЕ КИНО
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8044/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="485" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c836b07f02dd8b02521f3073d878fa521cf6b824.png" group-title="🍹Кино и сериалы",Наше Новое Кино HD
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/19231/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/19231/index.m3u8
 #EXTINF:-1 tvg-id="485" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c836b07f02dd8b02521f3073d878fa521cf6b824.png" group-title="🍹Кино и сериалы",Наше Новое Кино HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/19231/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/19231/index.m3u8
 #EXTINF:-1 tvg-id="821" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e18b0ef70f4ecd1016f7a83ba5bcff89da25a89d.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8042/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",КИНОКОМЕДИЯ
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8042/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -562,7 +577,7 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7248/index.m3u8
 http://live.ru-tv.site/8357/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2493" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9b857acfdf488a075539aeaa1ece20d8b4f1ae0e.png" group-title="🍹Кино и сериалы",Киноужас HD
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2056/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2056/index.m3u8
 #EXTINF:-1 tvg-id="2493" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9b857acfdf488a075539aeaa1ece20d8b4f1ae0e.png" group-title="🍹Кино и сериалы",Киноужас HD (2)
 #EXTGRP:🍹Кино и сериалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2056/index.m3u8
@@ -571,37 +586,37 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2056/index.m3u8
 http://live.ru-tv.site/8096/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="12" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/cf55a3fd8f4944b6b85acace06d10e2ab4fd4326.png" group-title="🍹Кино и сериалы",Родное Кино (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/126/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/126/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/cf55a3fd8f4944b6b85acace06d10e2ab4fd4326.png" group-title="🍹Кино и сериалы",Родное Кино (3)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/126/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/126/index.m3u8
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2530acd5b37ddfb0194ce9efbc33d0f17c6ebb8c.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8313/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",Дом Кино Премиум HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8313/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2530acd5b37ddfb0194ce9efbc33d0f17c6ebb8c.png" group-title="🍹Кино и сериалы",Дом Кино Премиум HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/911/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/911/index.m3u8
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2530acd5b37ddfb0194ce9efbc33d0f17c6ebb8c.png" group-title="🍹Кино и сериалы",Дом Кино Премиум HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/911/index.m3u8
-#EXTINF:-1 tvg-id="834" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a4ea1867a2afdd1d8b5b376997909e686fa9481b.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8136/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",Дом Кино
-#EXTGRP:🍹Кино и сериалы
-http://live.ru-tv.site/8136/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="834" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a4ea1867a2afdd1d8b5b376997909e686fa9481b.png" group-title="🍹Кино и сериалы",Дом Кино (2)
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/911/index.m3u8
+#EXTINF:-1 tvg-id="834" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a4ea1867a2afdd1d8b5b376997909e686fa9481b.png" group-title="🍹Кино и сериалы",Дом Кино
 #EXTGRP:🍹Кино и сериалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/154/index.m3u8
-#EXTINF:-1 tvg-id="834" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a4ea1867a2afdd1d8b5b376997909e686fa9481b.png" group-title="🍹Кино и сериалы",Дом Кино (3)
+#EXTINF:-1 tvg-id="834" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a4ea1867a2afdd1d8b5b376997909e686fa9481b.png" group-title="🍹Кино и сериалы",Дом Кино (2)
 #EXTGRP:🍹Кино и сериалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/154/index.m3u8
-#EXTINF:-1 tvg-id="2403" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f1d74e41912ddf7c87a5c4335aa0b0d818657a78.png" group-title="🍹Кино и сериалы",Иллюзион+
+#EXTINF:-1 tvg-id="834" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a4ea1867a2afdd1d8b5b376997909e686fa9481b.png" group-title="🍹Кино и сериалы",Дом Кино (3)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2038/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/154/index.m3u8
+#EXTINF:-1 tvg-id="2403" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f1d74e41912ddf7c87a5c4335aa0b0d818657a78.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8134/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",Иллюзион+
+#EXTGRP:🍹Кино и сериалы
+http://live.ru-tv.site/8134/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2403" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f1d74e41912ddf7c87a5c4335aa0b0d818657a78.png" group-title="🍹Кино и сериалы",Иллюзион+ (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2038/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2038/index.m3u8
 #EXTINF:-1 tvg-id="2403" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f1d74e41912ddf7c87a5c4335aa0b0d818657a78.png" group-title="🍹Кино и сериалы",Иллюзион+ (3)
 #EXTGRP:🍹Кино и сериалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/2038/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2038/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/184b10015ad4d18261dea79a7956828e1035dc10.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8132/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",Русский Иллюзион
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8132/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -625,19 +640,19 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2439/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/7260/index.m3u8
 #EXTINF:-1 tvg-id="4466" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/329d46d4357ee83c47d19550e1f18a5caf9cda22.png" group-title="🍹Кино и сериалы",KinoJam 1 HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7260/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7260/index.m3u8
 #EXTINF:-1 tvg-id="4466" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/329d46d4357ee83c47d19550e1f18a5caf9cda22.png" group-title="🍹Кино и сериалы",KinoJam 1 HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7260/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7260/index.m3u8
 #EXTINF:-1 tvg-id="4467" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d4fc5645e78e309e75f9dfeb7521dcbb0d4d730c.png" group-title="🍹Кино и сериалы",KinoJam 2 HD
 #EXTGRP:🍹Кино и сериалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/7261/index.m3u8
 #EXTINF:-1 tvg-id="4467" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d4fc5645e78e309e75f9dfeb7521dcbb0d4d730c.png" group-title="🍹Кино и сериалы",KinoJam 2 HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7261/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7261/index.m3u8
 #EXTINF:-1 tvg-id="4467" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d4fc5645e78e309e75f9dfeb7521dcbb0d4d730c.png" group-title="🍹Кино и сериалы",KinoJam 2 HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7261/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7261/index.m3u8
 #EXTINF:-1 tvg-id="1037" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c4401fe4a73c895520a9b4add92e9242f2a4412c.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8207/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",Кино ТВ
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8207/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -646,7 +661,7 @@ http://live.ru-tv.site/8207/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2097/index.m3u8
 #EXTINF:-1 tvg-id="1037" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c4401fe4a73c895520a9b4add92e9242f2a4412c.png" group-title="🍹Кино и сериалы",Кино ТВ HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2097/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2097/index.m3u8
 #EXTINF:-1 tvg-id="1620" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e225672bbdf2c2831c558321349af890d7719e5e.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8648/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="🍹Кино и сериалы",Комедия
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8648/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -670,10 +685,10 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2441/index.m3u8
 http://live.ru-tv.site/8323/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="138" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/55686241abb7dc3494d354ea485de2297c0bc01c.png" group-title="🍹Кино и сериалы",Комедийное HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/912/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/912/index.m3u8
 #EXTINF:-1 tvg-id="138" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/55686241abb7dc3494d354ea485de2297c0bc01c.png" group-title="🍹Кино и сериалы",Комедийное HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/912/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/912/index.m3u8
 #EXTINF:-1 tvg-id="2509" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3a44f3fa09c20d07f838cdbf24e32014b7d4b93b.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8310/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="🍹Кино и сериалы",Любимое HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8310/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -683,12 +698,12 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2106/index.m3u8
 #EXTINF:-1 tvg-id="2509" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3a44f3fa09c20d07f838cdbf24e32014b7d4b93b.png" group-title="🍹Кино и сериалы",Любимое HD (3)
 #EXTGRP:🍹Кино и сериалы
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2106/index.m3u8
-#EXTINF:-1 tvg-id="477" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b034e8e30c145baf341c6cc8da9c0ff5abf22831.png" group-title="🍹Кино и сериалы",Любимое Кино HD
+#EXTINF:-1 tvg-id="477" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b034e8e30c145baf341c6cc8da9c0ff5abf22831.png" catchup-days="0" group-title="🍹Кино и сериалы",Любимое кино HD
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20014/index.m3u8
+http://live.ru-tv.site/8946/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="477" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b034e8e30c145baf341c6cc8da9c0ff5abf22831.png" group-title="🍹Кино и сериалы",Любимое Кино HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20014/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20014/index.m3u8
 #EXTINF:-1 tvg-id="477" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b034e8e30c145baf341c6cc8da9c0ff5abf22831.png" group-title="🍹Кино и сериалы",Любимое Кино HD (3)
 #EXTGRP:🍹Кино и сериалы
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20014/index.m3u8
@@ -700,7 +715,7 @@ http://live.ru-tv.site/8034/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/549/index.m3u8
 #EXTINF:-1 tvg-id="352" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2dbad4a5a86a0f4dc6915b3aa14a478e8e795d70.png" group-title="🍹Кино и сериалы",Еврокино (3)
 #EXTGRP:🍹Кино и сериалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/549/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/549/index.m3u8
 #EXTINF:-1 tvg-id="9065" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/cdc32fb0d31a8e322717eeb00ff428f1e8a7fbe5.png" catchup-days="0" group-title="🍹Кино и сериалы",VHS-ка HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8962/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -709,43 +724,43 @@ http://live.ru-tv.site/8962/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/5006/index.m3u8
 #EXTINF:-1 tvg-id="9065" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/cdc32fb0d31a8e322717eeb00ff428f1e8a7fbe5.png" group-title="🍹Кино и сериалы",VHS-ка HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/5006/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/5006/index.m3u8
 #EXTINF:-1 tvg-id="309" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ae685e5da37f1a8bb23f8cbe0dfb8aa33beabf27.png" group-title="🍹Кино и сериалы",ТВ 21
 #EXTGRP:🍹Кино и сериалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/525/index.m3u8
 #EXTINF:-1 tvg-id="309" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ae685e5da37f1a8bb23f8cbe0dfb8aa33beabf27.png" group-title="🍹Кино и сериалы",ТВ 21 (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/525/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/525/index.m3u8
 #EXTINF:-1 tvg-id="309" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ae685e5da37f1a8bb23f8cbe0dfb8aa33beabf27.png" group-title="🍹Кино и сериалы",ТВ 21 (3)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/525/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/525/index.m3u8
 #EXTINF:-1 tvg-id="9180" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e88f2dc5b057be0574f71c6f29f43ecbe78d7cbc.png" group-title="🍹Кино и сериалы",9-1-1 HD
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2049/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2049/index.m3u8
 #EXTINF:-1 tvg-id="9180" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e88f2dc5b057be0574f71c6f29f43ecbe78d7cbc.png" group-title="🍹Кино и сериалы",9-1-1 HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2049/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2049/index.m3u8
 #EXTINF:-1 tvg-id="9180" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e88f2dc5b057be0574f71c6f29f43ecbe78d7cbc.png" group-title="🍹Кино и сериалы",9-1-1 HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2049/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2049/index.m3u8
 #EXTINF:-1 tvg-id="518" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9162c72581c206dc0fc110a3fa154ba51f607b0a.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8165/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",НСТ
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8165/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="518" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9162c72581c206dc0fc110a3fa154ba51f607b0a.png" group-title="🍹Кино и сериалы",НСТ (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/726/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/726/index.m3u8
 #EXTINF:-1 tvg-id="518" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9162c72581c206dc0fc110a3fa154ba51f607b0a.png" group-title="🍹Кино и сериалы",НСТ (3)
 #EXTGRP:🍹Кино и сериалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/726/index.m3u8
-#EXTINF:-1 tvg-id="2309" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/04c2f977ba97082e5c937c61eaba0ddbf362fec6.png" group-title="🍹Кино и сериалы",Шокирующее HD
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/726/index.m3u8
+#EXTINF:-1 tvg-id="2309" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/04c2f977ba97082e5c937c61eaba0ddbf362fec6.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8322/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",Шокирующее HD
 #EXTGRP:🍹Кино и сериалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/6299/index.m3u8
+http://live.ru-tv.site/8322/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2309" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/04c2f977ba97082e5c937c61eaba0ddbf362fec6.png" group-title="🍹Кино и сериалы",Шокирующее HD (2)
 #EXTGRP:🍹Кино и сериалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6299/index.m3u8
 #EXTINF:-1 tvg-id="2309" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/04c2f977ba97082e5c937c61eaba0ddbf362fec6.png" group-title="🍹Кино и сериалы",Шокирующее HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6299/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6299/index.m3u8
 #EXTINF:-1 tvg-id="2857" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/07c4e32bb0902d7ef3788dbe235d8b74de7e2fad.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8198/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🍹Кино и сериалы",Страшное HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8198/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -754,7 +769,7 @@ http://live.ru-tv.site/8198/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/7247/index.m3u8
 #EXTINF:-1 tvg-id="2857" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/07c4e32bb0902d7ef3788dbe235d8b74de7e2fad.png" group-title="🍹Кино и сериалы",Страшное HD (3)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/7247/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/7247/index.m3u8
 #EXTINF:-1 tvg-id="2754" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3252caff90ca05cf81e2991781c1d3381eaf74a4.png" catchup-days="0" group-title="🍹Кино и сериалы",Cinema HD
 #EXTGRP:🍹Кино и сериалы
 http://live.ru-tv.site/8949/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -772,16 +787,16 @@ http://live.ru-tv.site/8115/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20020/index.m3u8
 #EXTINF:-1 tvg-id="516" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f56dc22dfd21cf15a4c3612a474c8820d238def7.png" group-title="🍹Кино и сериалы",.sci-fi HD (2)
 #EXTGRP:🍹Кино и сериалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20020/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20020/index.m3u8
 #EXTINF:-1 tvg-id="6148" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/335baa27809a2ecf7c6f981ce2e4429059843518.png" group-title="🍧Наше Ретро",VF Леонид Гайдай
 #EXTGRP:🍧Наше Ретро
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/17004/index.m3u8
 #EXTINF:-1 tvg-id="6148" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/335baa27809a2ecf7c6f981ce2e4429059843518.png" group-title="🍧Наше Ретро",VF Леонид Гайдай (2)
 #EXTGRP:🍧Наше Ретро
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/17004/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/17004/index.m3u8
 #EXTINF:-1 tvg-id="6148" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/335baa27809a2ecf7c6f981ce2e4429059843518.png" group-title="🍧Наше Ретро",VF Леонид Гайдай (3)
 #EXTGRP:🍧Наше Ретро
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/17004/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/17004/index.m3u8
 #EXTINF:-1 tvg-id="6155" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9ece2b9deba0362595f1b18195c4e88c1b3c8df5.png" group-title="🍧Наше Ретро",VF Эльдар Рязанов
 #EXTGRP:🍧Наше Ретро
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/17012/index.m3u8
@@ -790,7 +805,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/17012/index.m3u8
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/17012/index.m3u8
 #EXTINF:-1 tvg-id="6155" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9ece2b9deba0362595f1b18195c4e88c1b3c8df5.png" group-title="🍧Наше Ретро",VF Эльдар Рязанов (3)
 #EXTGRP:🍧Наше Ретро
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/17012/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/17012/index.m3u8
 #EXTINF:-1 tvg-id="6144" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b46480aaca94231cb47f2ea55a24305e8c8099e0.png" group-title="🍧Наше Ретро",VF Луи де Фюнес
 #EXTGRP:🍧Наше Ретро
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/17000/index.m3u8
@@ -814,34 +829,34 @@ http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/17002/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/17003/index.m3u8
 #EXTINF:-1 tvg-id="6147" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6a080242094fdc8420f47f14d2c72b8c80a43d07.png" group-title="🍧Наше Ретро",VF Сверхъестественное (2)
 #EXTGRP:🍧Наше Ретро
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/17003/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/17003/index.m3u8
 #EXTINF:-1 tvg-id="6147" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6a080242094fdc8420f47f14d2c72b8c80a43d07.png" group-title="🍧Наше Ретро",VF Сверхъестественное (3)
 #EXTGRP:🍧Наше Ретро
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/17003/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/17003/index.m3u8
 #EXTINF:-1 tvg-id="6226" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6ae8e8609c289cb2317f07027cde061453ba9c1b.png" group-title="🍧Наше Ретро",VF Городок
 #EXTGRP:🍧Наше Ретро
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/18097/index.m3u8
 #EXTINF:-1 tvg-id="6226" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6ae8e8609c289cb2317f07027cde061453ba9c1b.png" group-title="🍧Наше Ретро",VF Городок (2)
 #EXTGRP:🍧Наше Ретро
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/18097/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/18097/index.m3u8
 #EXTINF:-1 tvg-id="6226" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6ae8e8609c289cb2317f07027cde061453ba9c1b.png" group-title="🍧Наше Ретро",VF Городок (3)
 #EXTGRP:🍧Наше Ретро
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/18097/index.m3u8
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/18097/index.m3u8
 #EXTINF:-1 tvg-id="5137" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6476ba663c9699e12903b9b18f27682aad02ddb9.png" catchup="default" catchup-days="3" catchup-source="http://live.ru-tv.site/8618/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="3" group-title="🍧Наше Ретро",MM Агата Кристи HD
 #EXTGRP:🍧Наше Ретро
 http://live.ru-tv.site/8618/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="5137" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6476ba663c9699e12903b9b18f27682aad02ddb9.png" group-title="🍧Наше Ретро",MM Агата Кристи HD (2)
 #EXTGRP:🍧Наше Ретро
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13024/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13024/index.m3u8
 #EXTINF:-1 tvg-id="5137" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6476ba663c9699e12903b9b18f27682aad02ddb9.png" group-title="🍧Наше Ретро",MM Агата Кристи HD (3)
 #EXTGRP:🍧Наше Ретро
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13024/index.m3u8
-#EXTINF:-1 tvg-id="5148" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6a5b938882a77c85ec89b5797aaba03f8166d473.png" catchup="default" catchup-days="3" catchup-source="http://live.ru-tv.site/8622/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="3" group-title="🍧Наше Ретро",MM Квартирник HD
-#EXTGRP:🍧Наше Ретро
-http://live.ru-tv.site/8622/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="5148" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6a5b938882a77c85ec89b5797aaba03f8166d473.png" group-title="🍧Наше Ретро",MM Квартирник HD (2)
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13024/index.m3u8
+#EXTINF:-1 tvg-id="5148" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6a5b938882a77c85ec89b5797aaba03f8166d473.png" group-title="🍧Наше Ретро",MM Квартирник HD
 #EXTGRP:🍧Наше Ретро
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13035/index.m3u8
+#EXTINF:-1 tvg-id="5148" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6a5b938882a77c85ec89b5797aaba03f8166d473.png" group-title="🍧Наше Ретро",MM Квартирник HD (2)
+#EXTGRP:🍧Наше Ретро
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13035/index.m3u8
 #EXTINF:-1 tvg-id="5148" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6a5b938882a77c85ec89b5797aaba03f8166d473.png" group-title="🍧Наше Ретро",MM Квартирник HD (3)
 #EXTGRP:🍧Наше Ретро
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13035/index.m3u8
@@ -863,66 +878,66 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/16065/index.m3u8
 #EXTINF:-1 tvg-id="6053" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e68e1c91081646622f7a7f7483f156f80a5f6bd7.png" group-title="🍧Наше Ретро",CineMan Лесник (2)
 #EXTGRP:🍧Наше Ретро
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/16065/index.m3u8
+#EXTINF:-1 tvg-id="6052" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5aa9757396b8735ce425681c7a7f39743f1a96fd.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8824/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍧Наше Ретро",CineMan ПёС + ЛИХАЧ HD
+#EXTGRP:🍧Наше Ретро
+http://live.ru-tv.site/8824/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="6052" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5aa9757396b8735ce425681c7a7f39743f1a96fd.png" group-title="🍧Наше Ретро",CineMan ПёС + Лихач
 #EXTGRP:🍧Наше Ретро
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/16064/index.m3u8
 #EXTINF:-1 tvg-id="6052" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5aa9757396b8735ce425681c7a7f39743f1a96fd.png" group-title="🍧Наше Ретро",CineMan ПёС + Лихач (2)
 #EXTGRP:🍧Наше Ретро
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/16064/index.m3u8
-#EXTINF:-1 tvg-id="6052" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5aa9757396b8735ce425681c7a7f39743f1a96fd.png" group-title="🍧Наше Ретро",CineMan ПёС + Лихач (3)
-#EXTGRP:🍧Наше Ретро
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/16064/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/16064/index.m3u8
 #EXTINF:-1 tvg-id="8790" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/93a968cb43d720ffea0a9075d2114040b4cc4d7b.png" group-title="🍷Кинозалы",Z!Russian HD
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31704/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31704/index.m3u8
 #EXTINF:-1 tvg-id="8790" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/93a968cb43d720ffea0a9075d2114040b4cc4d7b.png" group-title="🍷Кинозалы",Z!Russian HD (2)
 #EXTGRP:🍷Кинозалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31704/index.m3u8
 #EXTINF:-1 tvg-id="8790" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/93a968cb43d720ffea0a9075d2114040b4cc4d7b.png" group-title="🍷Кинозалы",Z!Russian HD (3)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31704/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31704/index.m3u8
 #EXTINF:-1 tvg-id="1114" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3a062e3211fd05f6ac9f16ec85c7ff24a2aac88f.png" group-title="🍷Кинозалы",Z!Comedy HD
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/14135/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14135/index.m3u8
 #EXTINF:-1 tvg-id="1114" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3a062e3211fd05f6ac9f16ec85c7ff24a2aac88f.png" group-title="🍷Кинозалы",Z!Comedy HD (2)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14135/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/14135/index.m3u8
 #EXTINF:-1 tvg-id="1114" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3a062e3211fd05f6ac9f16ec85c7ff24a2aac88f.png" group-title="🍷Кинозалы",Z!Comedy HD (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/14135/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/14135/index.m3u8
 #EXTINF:-1 tvg-id="8782" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/54d19479783017fc7e9e89b2df21cd4e07646c33.png" group-title="🍷Кинозалы",Z!Thriller HD
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31693/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31693/index.m3u8
 #EXTINF:-1 tvg-id="8782" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/54d19479783017fc7e9e89b2df21cd4e07646c33.png" group-title="🍷Кинозалы",Z!Thriller HD (2)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31693/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31693/index.m3u8
 #EXTINF:-1 tvg-id="8782" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/54d19479783017fc7e9e89b2df21cd4e07646c33.png" group-title="🍷Кинозалы",Z!Thriller HD (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/31693/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31693/index.m3u8
 #EXTINF:-1 tvg-id="8783" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/670da1d5600fdedde05604f6c9252ef4f399ac99.png" group-title="🍷Кинозалы",Z!Action HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31694/index.m3u8
 #EXTINF:-1 tvg-id="8783" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/670da1d5600fdedde05604f6c9252ef4f399ac99.png" group-title="🍷Кинозалы",Z!Action HD (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31694/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31694/index.m3u8
 #EXTINF:-1 tvg-id="8783" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/670da1d5600fdedde05604f6c9252ef4f399ac99.png" group-title="🍷Кинозалы",Z!Action HD (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/31694/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31694/index.m3u8
 #EXTINF:-1 tvg-id="8784" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/eef45edbba5699212ccc9bae4be8d62da2dac4ac.png" group-title="🍷Кинозалы",Z!Adventure HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31698/index.m3u8
 #EXTINF:-1 tvg-id="8784" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/eef45edbba5699212ccc9bae4be8d62da2dac4ac.png" group-title="🍷Кинозалы",Z!Adventure HD (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31698/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31698/index.m3u8
 #EXTINF:-1 tvg-id="8784" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/eef45edbba5699212ccc9bae4be8d62da2dac4ac.png" group-title="🍷Кинозалы",Z!Adventure HD (3)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31698/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31698/index.m3u8
 #EXTINF:-1 tvg-id="8785" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/0f2fc944c60d6383098a72e94724f69268de3108.png" group-title="🍷Кинозалы",Z!Detective HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31699/index.m3u8
 #EXTINF:-1 tvg-id="8785" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/0f2fc944c60d6383098a72e94724f69268de3108.png" group-title="🍷Кинозалы",Z!Detective HD (2)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/31699/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31699/index.m3u8
 #EXTINF:-1 tvg-id="8785" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/0f2fc944c60d6383098a72e94724f69268de3108.png" group-title="🍷Кинозалы",Z!Detective HD (3)
 #EXTGRP:🍷Кинозалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31699/index.m3u8
@@ -931,46 +946,46 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31699/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31702/index.m3u8
 #EXTINF:-1 tvg-id="8788" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b9ae6f2fd6db9ec7e28a41e55797b04a7a43c12f.png" group-title="🍷Кинозалы",Z!Fantastic HD (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31702/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31702/index.m3u8
 #EXTINF:-1 tvg-id="8788" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b9ae6f2fd6db9ec7e28a41e55797b04a7a43c12f.png" group-title="🍷Кинозалы",Z!Fantastic HD (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/31702/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31702/index.m3u8
 #EXTINF:-1 tvg-id="8760" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2123bb5c89209897cb86c7c4a260d208792f3b70.png" group-title="🍷Кинозалы",VeleS 60fps
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31637/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31637/index.m3u8
 #EXTINF:-1 tvg-id="8760" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2123bb5c89209897cb86c7c4a260d208792f3b70.png" group-title="🍷Кинозалы",VeleS 60fps (2)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31637/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31637/index.m3u8
 #EXTINF:-1 tvg-id="8760" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2123bb5c89209897cb86c7c4a260d208792f3b70.png" group-title="🍷Кинозалы",VeleS 60fps (3)
 #EXTGRP:🍷Кинозалы
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31637/index.m3u8
 #EXTINF:-1 tvg-id="8761" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d8e1291c309cf776f9e2bcce94e07d7b964bfa11.png" group-title="🍷Кинозалы",VeleS Киноплёнка
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31638/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31638/index.m3u8
 #EXTINF:-1 tvg-id="8761" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d8e1291c309cf776f9e2bcce94e07d7b964bfa11.png" group-title="🍷Кинозалы",VeleS Киноплёнка (2)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31638/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31638/index.m3u8
 #EXTINF:-1 tvg-id="8761" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d8e1291c309cf776f9e2bcce94e07d7b964bfa11.png" group-title="🍷Кинозалы",VeleS Киноплёнка (3)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31638/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31638/index.m3u8
 #EXTINF:-1 tvg-id="8763" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2487b6ff7d5687b7930c1f5422c0d8a1a91db25b.png" group-title="🍷Кинозалы",VeleS Premiere
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31641/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31641/index.m3u8
 #EXTINF:-1 tvg-id="8763" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2487b6ff7d5687b7930c1f5422c0d8a1a91db25b.png" group-title="🍷Кинозалы",VeleS Premiere (2)
 #EXTGRP:🍷Кинозалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31641/index.m3u8
 #EXTINF:-1 tvg-id="8763" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2487b6ff7d5687b7930c1f5422c0d8a1a91db25b.png" group-title="🍷Кинозалы",VeleS Premiere (3)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31641/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31641/index.m3u8
 #EXTINF:-1 tvg-id="8764" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/49472303a81256b26b43515a78c6b80bd767ccbe.png" group-title="🍷Кинозалы",VeleS Страшное
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31642/index.m3u8
 #EXTINF:-1 tvg-id="8764" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/49472303a81256b26b43515a78c6b80bd767ccbe.png" group-title="🍷Кинозалы",VeleS Страшное (2)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/31642/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31642/index.m3u8
 #EXTINF:-1 tvg-id="8764" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/49472303a81256b26b43515a78c6b80bd767ccbe.png" group-title="🍷Кинозалы",VeleS Страшное (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31642/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31642/index.m3u8
 #EXTINF:-1 tvg-id="8765" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ccd1757c234f140c072a70f54b32edc7a004968a.png" group-title="🍷Кинозалы",VeleS СССР
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31643/index.m3u8
@@ -985,10 +1000,10 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31643/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31644/index.m3u8
 #EXTINF:-1 tvg-id="8766" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c23b7bf27fa19a912105d51189d53df04258d348.png" group-title="🍷Кинозалы",VeleS Movie Hits (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31644/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31644/index.m3u8
 #EXTINF:-1 tvg-id="8766" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c23b7bf27fa19a912105d51189d53df04258d348.png" group-title="🍷Кинозалы",VeleS Movie Hits (3)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31644/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31644/index.m3u8
 #EXTINF:-1 tvg-id="4762" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9a1de8613c14bc665cb368e59e237cebded6b87d.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8457/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",BCU Russian HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8457/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1009,7 +1024,7 @@ http://live.ru-tv.site/8477/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15026/index.m3u8
 #EXTINF:-1 tvg-id="8963" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d87f15b1d95cbcf8707a8e96d3f4361d7a1f18c8.png" group-title="🍷Кинозалы",BCU Comedy HD (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15026/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15026/index.m3u8
 #EXTINF:-1 tvg-id="4748" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b08435b16ff6ebc98b07071c565add2ce55f927d.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8481/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",BCU Action HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8481/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1030,10 +1045,10 @@ http://live.ru-tv.site/8877/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://live.ru-tv.site/8478/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="4753" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a479bb91b7692d54ecb89a1be3b8e73160c9f9f2.png" group-title="🍷Кинозалы",BCU Fantastic HD (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11032/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11032/index.m3u8
 #EXTINF:-1 tvg-id="4753" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a479bb91b7692d54ecb89a1be3b8e73160c9f9f2.png" group-title="🍷Кинозалы",BCU Fantastic HD (3)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11032/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11032/index.m3u8
 #EXTINF:-1 tvg-id="4758" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/30b28216d02bb4919332a0e68aacded25625ba08.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8455/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",BCU Kinorating HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8455/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1042,10 +1057,10 @@ http://live.ru-tv.site/8455/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11042/index.m3u8
 #EXTINF:-1 tvg-id="4763" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/93b28e5b787fe1621a7e221e9f374997bcb43c84.png" group-title="🍷Кинозалы",BCU VHS HDR (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11042/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11042/index.m3u8
 #EXTINF:-1 tvg-id="4763" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/93b28e5b787fe1621a7e221e9f374997bcb43c84.png" group-title="🍷Кинозалы",BCU VHS HDR (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11042/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11042/index.m3u8
 #EXTINF:-1 tvg-id="4682" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8e4057e757176e10d10ecf3d34396e58f3cf7295.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8952/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",CineMan HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8952/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1054,7 +1069,7 @@ http://live.ru-tv.site/8952/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11004/index.m3u8
 #EXTINF:-1 tvg-id="4682" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8e4057e757176e10d10ecf3d34396e58f3cf7295.png" group-title="🍷Кинозалы",CineMan (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11004/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11004/index.m3u8
 #EXTINF:-1 tvg-id="4683" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/02f1b1daae60a319c0f1d2569fe88a23c1c821f2.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8959/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",CineMan TOP HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8959/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1072,7 +1087,7 @@ http://live.ru-tv.site/8871/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11013/index.m3u8
 #EXTINF:-1 tvg-id="4691" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5ee551313749e27093583101fdaa9d73ef38824f.png" group-title="🍷Кинозалы",CineMan РуКино (2)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/11013/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11013/index.m3u8
 #EXTINF:-1 tvg-id="7485" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c2626e74f09ac4be259437c51265a26480c501dd.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8967/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",CineMan Premium HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8967/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1084,10 +1099,10 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20112/index.m3u8
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20112/index.m3u8
 #EXTINF:-1 tvg-id="4684" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7c41d227ce84270c3e1dccbaa2424f22ae166d08.png" group-title="🍷Кинозалы",CineMan Action
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11006/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11006/index.m3u8
 #EXTINF:-1 tvg-id="4684" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7c41d227ce84270c3e1dccbaa2424f22ae166d08.png" group-title="🍷Кинозалы",CineMan Action (2)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11006/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11006/index.m3u8
 #EXTINF:-1 tvg-id="4684" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7c41d227ce84270c3e1dccbaa2424f22ae166d08.png" group-title="🍷Кинозалы",CineMan Action (3)
 #EXTGRP:🍷Кинозалы
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11006/index.m3u8
@@ -1099,16 +1114,16 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11007/index.m3u8
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11007/index.m3u8
 #EXTINF:-1 tvg-id="4685" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/84461bd8f8d6f16197b75ab86c5d10bb00326b51.png" group-title="🍷Кинозалы",CineMan Thriller (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11007/index.m3u8
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/11007/index.m3u8
 #EXTINF:-1 tvg-id="5585" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8e6341ef3ceb6baabe54f3880e5083919eae362f.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8957/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",CineMan Катастрофы HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8957/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="5585" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8e6341ef3ceb6baabe54f3880e5083919eae362f.png" group-title="🍷Кинозалы",CineMan Катастрофы
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15106/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15106/index.m3u8
 #EXTINF:-1 tvg-id="5585" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8e6341ef3ceb6baabe54f3880e5083919eae362f.png" group-title="🍷Кинозалы",CineMan Катастрофы (2)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15106/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15106/index.m3u8
 #EXTINF:-1 tvg-id="4688" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e54c68b677fd53ace0c89d70eb2283930ce3ed76.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8960/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",CineMan Ужасы HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8960/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1135,22 +1150,22 @@ http://live.ru-tv.site/8706/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13014/index.m3u8
 #EXTINF:-1 tvg-id="5127" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/02bcfa13f21a0fecfa27ad9f944b9eb6ef36b4fc.png" group-title="🍷Кинозалы",MM NewFilm RU HD (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13014/index.m3u8
-#EXTINF:-1 tvg-id="5132" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e44aaf74b7c9a9b2149d577d6e9b6be33b18312f.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8744/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",MM USSR Комедия HD
-#EXTGRP:🍷Кинозалы
-http://live.ru-tv.site/8744/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="5132" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e44aaf74b7c9a9b2149d577d6e9b6be33b18312f.png" group-title="🍷Кинозалы",MM USSR Комедия HD (2)
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13014/index.m3u8
+#EXTINF:-1 tvg-id="5132" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e44aaf74b7c9a9b2149d577d6e9b6be33b18312f.png" group-title="🍷Кинозалы",MM USSR Комедия HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13019/index.m3u8
-#EXTINF:-1 tvg-id="5132" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e44aaf74b7c9a9b2149d577d6e9b6be33b18312f.png" group-title="🍷Кинозалы",MM USSR Комедия HD (3)
+#EXTINF:-1 tvg-id="5132" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e44aaf74b7c9a9b2149d577d6e9b6be33b18312f.png" group-title="🍷Кинозалы",MM USSR Комедия HD (2)
 #EXTGRP:🍷Кинозалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13019/index.m3u8
-#EXTINF:-1 tvg-id="5570" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/334ea1e43b6aa5843713d791f28ec6ea3e5e91b9.png" catchup="default" catchup-days="3" catchup-source="http://live.ru-tv.site/8615/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="3" group-title="🍷Кинозалы",MM USSR Приключения HD
+#EXTINF:-1 tvg-id="5132" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e44aaf74b7c9a9b2149d577d6e9b6be33b18312f.png" group-title="🍷Кинозалы",MM USSR Комедия HD (3)
 #EXTGRP:🍷Кинозалы
-http://live.ru-tv.site/8615/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="5570" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/334ea1e43b6aa5843713d791f28ec6ea3e5e91b9.png" group-title="🍷Кинозалы",MM USSR Приключения HD (2)
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/13019/index.m3u8
+#EXTINF:-1 tvg-id="5570" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/334ea1e43b6aa5843713d791f28ec6ea3e5e91b9.png" group-title="🍷Кинозалы",MM USSR Приключения HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13060/index.m3u8
+#EXTINF:-1 tvg-id="5570" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/334ea1e43b6aa5843713d791f28ec6ea3e5e91b9.png" group-title="🍷Кинозалы",MM USSR Приключения HD (2)
+#EXTGRP:🍷Кинозалы
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13060/index.m3u8
 #EXTINF:-1 tvg-id="5570" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/334ea1e43b6aa5843713d791f28ec6ea3e5e91b9.png" group-title="🍷Кинозалы",MM USSR Приключения HD (3)
 #EXTGRP:🍷Кинозалы
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13060/index.m3u8
@@ -1171,7 +1186,7 @@ http://live.ru-tv.site/8708/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13038/index.m3u8
 #EXTINF:-1 tvg-id="5151" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/224daeb2b7a94824ffbec9482a2a07fa28bb3418.png" group-title="🍷Кинозалы",MM Комедия HD (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13038/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13038/index.m3u8
 #EXTINF:-1 tvg-id="5140" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1f7690b3e63aede1cc372d82ce84dc3efcc2b4a0.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8411/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",MM Боевик Classic HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8411/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1186,10 +1201,10 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13027/index.m3u8
 http://live.ru-tv.site/8745/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="5141" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8337f0e1b1c55c8e8e3f0d164b1465bc7ea92d99.png" group-title="🍷Кинозалы",MM Боевик HD (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13028/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13028/index.m3u8
 #EXTINF:-1 tvg-id="5141" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8337f0e1b1c55c8e8e3f0d164b1465bc7ea92d99.png" group-title="🍷Кинозалы",MM Боевик HD (3)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13028/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13028/index.m3u8
 #EXTINF:-1 tvg-id="5171" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d0c67a576af3c1e460c73ca206fa5a2e5439fad6.png" catchup="default" catchup-days="3" catchup-source="http://live.ru-tv.site/8778/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="3" group-title="🍷Кинозалы",MM Триллер HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8778/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1198,10 +1213,10 @@ http://live.ru-tv.site/8778/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13058/index.m3u8
 #EXTINF:-1 tvg-id="5171" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d0c67a576af3c1e460c73ca206fa5a2e5439fad6.png" group-title="🍷Кинозалы",MM Триллер HD (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13058/index.m3u8
-#EXTINF:-1 tvg-id="5124" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a57108fc02f93fa1c089777140bbf74db041e0b0.png" group-title="🍷Кинозалы",MM NewFilm 1 HD
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13058/index.m3u8
+#EXTINF:-1 tvg-id="5124" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a57108fc02f93fa1c089777140bbf74db041e0b0.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8741/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",MM NewFilm 1 HD
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13011/index.m3u8
+http://live.ru-tv.site/8741/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="5124" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a57108fc02f93fa1c089777140bbf74db041e0b0.png" group-title="🍷Кинозалы",MM NewFilm 1 HD (2)
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13011/index.m3u8
@@ -1222,7 +1237,7 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13012/index.m3u8
 http://live.ru-tv.site/8743/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="5126" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/158176699277ec123b881d67b0b1d0b0a87984dd.png" group-title="🍷Кинозалы",MM NewFilm 3 HD (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13013/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13013/index.m3u8
 #EXTINF:-1 tvg-id="5126" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/158176699277ec123b881d67b0b1d0b0a87984dd.png" group-title="🍷Кинозалы",MM NewFilm 3 HD (3)
 #EXTGRP:🍷Кинозалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13013/index.m3u8
@@ -1231,10 +1246,10 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13013/index.m3u8
 http://live.ru-tv.site/8746/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="5147" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6d010e5ffc9b9afa627c77d42c40fd8724367c6b.png" group-title="🍷Кинозалы",MM Катастрофа HD (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13034/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13034/index.m3u8
 #EXTINF:-1 tvg-id="5147" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6d010e5ffc9b9afa627c77d42c40fd8724367c6b.png" group-title="🍷Кинозалы",MM Катастрофа HD (3)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13034/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13034/index.m3u8
 #EXTINF:-1 tvg-id="5160" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7b9017608a4791ff8306ec8db66fea5dda53ba9a.png" catchup="default" catchup-days="3" catchup-source="http://live.ru-tv.site/8799/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="3" group-title="🍷Кинозалы",MM Погружение HD
 #EXTGRP:🍷Кинозалы
 http://live.ru-tv.site/8799/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1243,13 +1258,13 @@ http://live.ru-tv.site/8799/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13047/index.m3u8
 #EXTINF:-1 tvg-id="5160" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7b9017608a4791ff8306ec8db66fea5dda53ba9a.png" group-title="🍷Кинозалы",MM Погружение HD (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13047/index.m3u8
-#EXTINF:-1 tvg-id="5161" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/322da05fd31471b15a9218b7af7fe0593768705b.png" catchup="default" catchup-days="3" catchup-source="http://live.ru-tv.site/8779/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="3" group-title="🍷Кинозалы",MM Приключения HD
-#EXTGRP:🍷Кинозалы
-http://live.ru-tv.site/8779/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="5161" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/322da05fd31471b15a9218b7af7fe0593768705b.png" group-title="🍷Кинозалы",MM Приключения HD (2)
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13047/index.m3u8
+#EXTINF:-1 tvg-id="5161" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/322da05fd31471b15a9218b7af7fe0593768705b.png" group-title="🍷Кинозалы",MM Приключения HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13048/index.m3u8
+#EXTINF:-1 tvg-id="5161" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/322da05fd31471b15a9218b7af7fe0593768705b.png" group-title="🍷Кинозалы",MM Приключения HD (2)
+#EXTGRP:🍷Кинозалы
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13048/index.m3u8
 #EXTINF:-1 tvg-id="5161" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/322da05fd31471b15a9218b7af7fe0593768705b.png" group-title="🍷Кинозалы",MM Приключения HD (3)
 #EXTGRP:🍷Кинозалы
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13048/index.m3u8
@@ -1270,13 +1285,13 @@ http://live.ru-tv.site/8410/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13017/index.m3u8
 #EXTINF:-1 tvg-id="5130" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/a89cbd9e99d52ae505f8da2d736779f2634ce6ee.png" group-title="🍷Кинозалы",MM UFO HD (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13017/index.m3u8
-#EXTINF:-1 tvg-id="5212" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6b5e25c7f737f247140d9ba13b8b49ddfbf804b3.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8725/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🍷Кинозалы",MM Ужасы HD
-#EXTGRP:🍷Кинозалы
-http://live.ru-tv.site/8725/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="5212" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6b5e25c7f737f247140d9ba13b8b49ddfbf804b3.png" group-title="🍷Кинозалы",MM Ужасы HD (2)
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13017/index.m3u8
+#EXTINF:-1 tvg-id="5212" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6b5e25c7f737f247140d9ba13b8b49ddfbf804b3.png" group-title="🍷Кинозалы",MM Ужасы HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/13099/index.m3u8
+#EXTINF:-1 tvg-id="5212" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6b5e25c7f737f247140d9ba13b8b49ddfbf804b3.png" group-title="🍷Кинозалы",MM Ужасы HD (2)
+#EXTGRP:🍷Кинозалы
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/13099/index.m3u8
 #EXTINF:-1 tvg-id="5212" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/6b5e25c7f737f247140d9ba13b8b49ddfbf804b3.png" group-title="🍷Кинозалы",MM Ужасы HD (3)
 #EXTGRP:🍷Кинозалы
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13099/index.m3u8
@@ -1285,7 +1300,7 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/13099/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14236/index.m3u8
 #EXTINF:-1 tvg-id="5446" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d7f289d30a7f504113027a751f39a1046eb23583.png" group-title="🍷Кинозалы",Yosso TV Best (2)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/14236/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/14236/index.m3u8
 #EXTINF:-1 tvg-id="5446" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d7f289d30a7f504113027a751f39a1046eb23583.png" group-title="🍷Кинозалы",Yosso TV Best (3)
 #EXTGRP:🍷Кинозалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/14236/index.m3u8
@@ -1303,37 +1318,37 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/14177/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15168/index.m3u8
 #EXTINF:-1 tvg-id="5631" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5baf4bfade30662315047293f7341dd66828323b.png" group-title="🍷Кинозалы",Yosso TV Thriller (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15168/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15168/index.m3u8
 #EXTINF:-1 tvg-id="5631" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5baf4bfade30662315047293f7341dd66828323b.png" group-title="🍷Кинозалы",Yosso TV Thriller (3)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15168/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15168/index.m3u8
 #EXTINF:-1 tvg-id="5586" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/fff72fed4cb5a6bd1d906c522e52ee742f9abe94.png" group-title="🍷Кинозалы",Yosso TV Adrenaline
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15105/index.m3u8
 #EXTINF:-1 tvg-id="5586" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/fff72fed4cb5a6bd1d906c522e52ee742f9abe94.png" group-title="🍷Кинозалы",Yosso TV Adrenaline (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15105/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15105/index.m3u8
 #EXTINF:-1 tvg-id="5586" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/fff72fed4cb5a6bd1d906c522e52ee742f9abe94.png" group-title="🍷Кинозалы",Yosso TV Adrenaline (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/15105/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15105/index.m3u8
 #EXTINF:-1 tvg-id="5360" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ff14b8eb169577ac55d1db94537008cc81df07b0.png" group-title="🍷Кинозалы",Yosso TV Русские Фильмы
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/14174/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14174/index.m3u8
 #EXTINF:-1 tvg-id="5360" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ff14b8eb169577ac55d1db94537008cc81df07b0.png" group-title="🍷Кинозалы",Yosso TV Русские Фильмы (2)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14174/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/14174/index.m3u8
 #EXTINF:-1 tvg-id="5360" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ff14b8eb169577ac55d1db94537008cc81df07b0.png" group-title="🍷Кинозалы",Yosso TV Русские Фильмы (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/14174/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/14174/index.m3u8
 #EXTINF:-1 tvg-id="5361" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3838b6f861e8cc4ae76eadb709bc4a4846295c83.png" group-title="🍷Кинозалы",Yosso TV Советские Фильмы 4K
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/19435/index.m3u8
 #EXTINF:-1 tvg-id="5361" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3838b6f861e8cc4ae76eadb709bc4a4846295c83.png" group-title="🍷Кинозалы",Yosso TV Советские Фильмы
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/14175/index.m3u8
-#EXTINF:-1 tvg-id="5361" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3838b6f861e8cc4ae76eadb709bc4a4846295c83.png" group-title="🍷Кинозалы",Yosso TV Советские Фильмы (2)
-#EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14175/index.m3u8
+#EXTINF:-1 tvg-id="5361" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/3838b6f861e8cc4ae76eadb709bc4a4846295c83.png" group-title="🍷Кинозалы",Yosso TV Советские Фильмы 4K (2)
+#EXTGRP:🍷Кинозалы
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/19435/index.m3u8
 #EXTINF:-1 tvg-id="5359" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9397f394dcbabfa4be755c885cf08c4a56f1f4b3.png" group-title="🍷Кинозалы",Yosso TV VHS
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14172/index.m3u8
@@ -1342,7 +1357,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14172/index.m3u8
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/14172/index.m3u8
 #EXTINF:-1 tvg-id="5359" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9397f394dcbabfa4be755c885cf08c4a56f1f4b3.png" group-title="🍷Кинозалы",Yosso TV VHS (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/14172/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/14172/index.m3u8
 #EXTINF:-1 tvg-id="4591" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/201392c2568762961469a30350b752e2eadee0bf.png" group-title="🍷Кинозалы",VF Adventure
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10000/index.m3u8
@@ -1357,19 +1372,19 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10000/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10003/index.m3u8
 #EXTINF:-1 tvg-id="4594" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/4f03984e7b9922d6bd0de135f759470de17355e3.png" group-title="🍷Кинозалы",VF Comedy (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10003/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10003/index.m3u8
 #EXTINF:-1 tvg-id="4594" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/4f03984e7b9922d6bd0de135f759470de17355e3.png" group-title="🍷Кинозалы",VF Comedy (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/10003/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10003/index.m3u8
 #EXTINF:-1 tvg-id="4595" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/0d1d88fdb1c75e73cfe2a51efc22d1c585e8ac72.png" group-title="🍷Кинозалы",VF Family
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10004/index.m3u8
 #EXTINF:-1 tvg-id="4595" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/0d1d88fdb1c75e73cfe2a51efc22d1c585e8ac72.png" group-title="🍷Кинозалы",VF Family (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10004/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10004/index.m3u8
 #EXTINF:-1 tvg-id="4595" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/0d1d88fdb1c75e73cfe2a51efc22d1c585e8ac72.png" group-title="🍷Кинозалы",VF Family (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/10004/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10004/index.m3u8
 #EXTINF:-1 tvg-id="4596" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/53288dac0873fd3929b6fd8e2ea4da1c66c587aa.png" group-title="🍷Кинозалы",VF Fantasy
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10005/index.m3u8
@@ -1378,7 +1393,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10005/index.m3u8
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10005/index.m3u8
 #EXTINF:-1 tvg-id="4596" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/53288dac0873fd3929b6fd8e2ea4da1c66c587aa.png" group-title="🍷Кинозалы",VF Fantasy (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/10005/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10005/index.m3u8
 #EXTINF:-1 tvg-id="4598" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8851e0b1b41f0d73c0201b83ee1b53e2f2d4907b.png" group-title="🍷Кинозалы",VF Mystic
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10007/index.m3u8
@@ -1411,16 +1426,16 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10009/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10051/index.m3u8
 #EXTINF:-1 tvg-id="4644" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7f94877e1331273d91b7db34d4f67e22c6b77352.png" group-title="🍷Кинозалы",VF Премьера (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10051/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10051/index.m3u8
 #EXTINF:-1 tvg-id="4644" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7f94877e1331273d91b7db34d4f67e22c6b77352.png" group-title="🍷Кинозалы",VF Премьера (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/10051/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10051/index.m3u8
 #EXTINF:-1 tvg-id="4645" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d2e5ef77220f38b0115fd468e474c64a9def457c.png" group-title="🍷Кинозалы",VF Premiere
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10052/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10052/index.m3u8
 #EXTINF:-1 tvg-id="4645" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d2e5ef77220f38b0115fd468e474c64a9def457c.png" group-title="🍷Кинозалы",VF Premiere (2)
 #EXTGRP:🍷Кинозалы
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10052/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10052/index.m3u8
 #EXTINF:-1 tvg-id="4645" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d2e5ef77220f38b0115fd468e474c64a9def457c.png" group-title="🍷Кинозалы",VF Premiere (3)
 #EXTGRP:🍷Кинозалы
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10052/index.m3u8
@@ -1429,10 +1444,10 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10052/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10055/index.m3u8
 #EXTINF:-1 tvg-id="4648" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/95753892008912f677200e3a737b669f81167297.png" group-title="🍷Кинозалы",VF Комедия (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10055/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10055/index.m3u8
 #EXTINF:-1 tvg-id="4648" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/95753892008912f677200e3a737b669f81167297.png" group-title="🍷Кинозалы",VF Комедия (3)
 #EXTGRP:🍷Кинозалы
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/10055/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10055/index.m3u8
 #EXTINF:-1 tvg-id="4666" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/cef69a4e6802879d5a407f629257637e1e60e9af.png" group-title="🍷Кинозалы",VF Катастрофы
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10080/index.m3u8
@@ -1450,40 +1465,40 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10087/index.m3u8
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/10087/index.m3u8
 #EXTINF:-1 tvg-id="4664" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/8b08322c7087b46ef675e1680c03111abdd247e6.png" group-title="🍷Кинозалы",VF Боевик (3)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/10087/index.m3u8
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/10087/index.m3u8
 #EXTINF:-1 tvg-id="4719" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e2e1ad564ff66373ed24327d7a3a05e3d3dfc7cb.png" group-title="🍷Кинозалы",PG Premiere HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11094/index.m3u8
 #EXTINF:-1 tvg-id="4719" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e2e1ad564ff66373ed24327d7a3a05e3d3dfc7cb.png" group-title="🍷Кинозалы",PG Premiere HD (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11094/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11094/index.m3u8
 #EXTINF:-1 tvg-id="4719" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e2e1ad564ff66373ed24327d7a3a05e3d3dfc7cb.png" group-title="🍷Кинозалы",PG Premiere HD (3)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11094/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11094/index.m3u8
 #EXTINF:-1 tvg-id="4720" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/68b464451b2ada4c8a662c61d54def080edc7863.png" group-title="🍷Кинозалы",PG Premium HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11095/index.m3u8
 #EXTINF:-1 tvg-id="4720" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/68b464451b2ada4c8a662c61d54def080edc7863.png" group-title="🍷Кинозалы",PG Premium HD (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11095/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11095/index.m3u8
 #EXTINF:-1 tvg-id="4720" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/68b464451b2ada4c8a662c61d54def080edc7863.png" group-title="🍷Кинозалы",PG Premium HD (3)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11095/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11095/index.m3u8
 #EXTINF:-1 tvg-id="4724" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/302124382739461b3dd6f70e25ad35d9c8421d56.png" group-title="🍷Кинозалы",PG Thriller HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11099/index.m3u8
 #EXTINF:-1 tvg-id="4724" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/302124382739461b3dd6f70e25ad35d9c8421d56.png" group-title="🍷Кинозалы",PG Thriller HD (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11099/index.m3u8
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/11099/index.m3u8
 #EXTINF:-1 tvg-id="4724" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/302124382739461b3dd6f70e25ad35d9c8421d56.png" group-title="🍷Кинозалы",PG Thriller HD (3)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11099/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11099/index.m3u8
 #EXTINF:-1 tvg-id="4721" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c315c0e36e821383f76e5b644a46157ad4cf4a9b.png" group-title="🍷Кинозалы",PG РуКино HD
 #EXTGRP:🍷Кинозалы
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11096/index.m3u8
 #EXTINF:-1 tvg-id="4721" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c315c0e36e821383f76e5b644a46157ad4cf4a9b.png" group-title="🍷Кинозалы",PG РуКино HD (2)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11096/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11096/index.m3u8
 #EXTINF:-1 tvg-id="4721" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c315c0e36e821383f76e5b644a46157ad4cf4a9b.png" group-title="🍷Кинозалы",PG РуКино HD (3)
 #EXTGRP:🍷Кинозалы
 http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/11096/index.m3u8
@@ -1492,28 +1507,28 @@ http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/11096/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15000/index.m3u8
 #EXTINF:-1 tvg-id="5462" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/47ed53193cbafca5642eb2bad79c7ec6c80d48e6.png" group-title="🍷Кинозалы",PG VHS HD (2)
 #EXTGRP:🍷Кинозалы
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15000/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15000/index.m3u8
 #EXTINF:-1 tvg-id="5462" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/47ed53193cbafca5642eb2bad79c7ec6c80d48e6.png" group-title="🍷Кинозалы",PG VHS HD (3)
 #EXTGRP:🍷Кинозалы
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15000/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15000/index.m3u8
 #EXTINF:-1 tvg-id="6213" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/81c410dc9f572f213760607d8cfe691ba1852b46.png" group-title="🌎Познавательные",Z!Travel HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/17063/index.m3u8
 #EXTINF:-1 tvg-id="6213" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/81c410dc9f572f213760607d8cfe691ba1852b46.png" group-title="🌎Познавательные",Z!Travel HD (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/17063/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/17063/index.m3u8
 #EXTINF:-1 tvg-id="6213" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/81c410dc9f572f213760607d8cfe691ba1852b46.png" group-title="🌎Познавательные",Z!Travel HD (3)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/17063/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/17063/index.m3u8
 #EXTINF:-1 tvg-id="8822" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2edb4ac0a2f5100309391799f6b791aaefedfd3b.png" group-title="🌎Познавательные",Z!Science HD
 #EXTGRP:🌎Познавательные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31705/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31705/index.m3u8
 #EXTINF:-1 tvg-id="8822" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2edb4ac0a2f5100309391799f6b791aaefedfd3b.png" group-title="🌎Познавательные",Z!Science HD (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31705/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31705/index.m3u8
 #EXTINF:-1 tvg-id="8822" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2edb4ac0a2f5100309391799f6b791aaefedfd3b.png" group-title="🌎Познавательные",Z!Science HD (3)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31705/index.m3u8
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/31705/index.m3u8
 #EXTINF:-1 tvg-id="9082" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e633000b899b49ae7032a27b3316f80dced1cce4.png" catchup-days="0" group-title="🌎Познавательные",The Explorers
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/9486/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1531,16 +1546,16 @@ http://live.ru-tv.site/8176/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://live.ru-tv.site/8080/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="4474" tvg-logo="http://epg.one/img2/4474.png" group-title="🌎Познавательные",National Geographic HD (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/14001/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/14001/index.m3u8
 #EXTINF:-1 tvg-id="2444" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/fc60eae76f1d80169bb5015cb15cf0a97111ca7e.png" group-title="🌎Познавательные",Мужской HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20035/index.m3u8
 #EXTINF:-1 tvg-id="2444" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/fc60eae76f1d80169bb5015cb15cf0a97111ca7e.png" group-title="🌎Познавательные",Мужской HD (2)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20035/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20035/index.m3u8
 #EXTINF:-1 tvg-id="2444" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/fc60eae76f1d80169bb5015cb15cf0a97111ca7e.png" group-title="🌎Познавательные",Мужской HD (3)
 #EXTGRP:🌎Познавательные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/20035/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20035/index.m3u8
 #EXTINF:-1 tvg-id="7632" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c183076ef69898b036a4202cdbd77e6bad3cde20.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8078/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="🌎Познавательные",TERRA
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/8078/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1549,22 +1564,22 @@ http://live.ru-tv.site/8078/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2416/index.m3u8
 #EXTINF:-1 tvg-id="7632" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c183076ef69898b036a4202cdbd77e6bad3cde20.png" group-title="🌎Познавательные",TERRA HD (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2416/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2416/index.m3u8
 #EXTINF:-1 tvg-id="2186" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7d4f62d36a4a6ef72f0298f13e9c3e7e4472bf43.png" group-title="🌎Познавательные",DocuBox HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/968/index.m3u8
 #EXTINF:-1 tvg-id="2186" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7d4f62d36a4a6ef72f0298f13e9c3e7e4472bf43.png" group-title="🌎Познавательные",DocuBox HD (2)
 #EXTGRP:🌎Познавательные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/968/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/968/index.m3u8
 #EXTINF:-1 tvg-id="2186" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7d4f62d36a4a6ef72f0298f13e9c3e7e4472bf43.png" group-title="🌎Познавательные",DocuBox HD (3)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/968/index.m3u8
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/968/index.m3u8
 #EXTINF:-1 tvg-id="4778" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ae73558d9520be8cfcec70936565389c88b89ccf.png" group-title="🌎Познавательные",StrahTV Космо HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11065/index.m3u8
 #EXTINF:-1 tvg-id="4778" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ae73558d9520be8cfcec70936565389c88b89ccf.png" group-title="🌎Познавательные",StrahTV Космо HD (2)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11065/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11065/index.m3u8
 #EXTINF:-1 tvg-id="4778" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ae73558d9520be8cfcec70936565389c88b89ccf.png" group-title="🌎Познавательные",StrahTV Космо HD (3)
 #EXTGRP:🌎Познавательные
 http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/11065/index.m3u8
@@ -1576,7 +1591,7 @@ http://live.ru-tv.site/8429/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20155/index.m3u8
 #EXTINF:-1 tvg-id="7489" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/4c249b6ce856d405ea8925243edc32343b42847c.png" group-title="🌎Познавательные",BOX Stories HD (3)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20155/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20155/index.m3u8
 #EXTINF:-1 tvg-id="7493" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/07d18cd65a5e86ffbd64b582b45c929646cc71ad.png" catchup="default" catchup-days="1" catchup-source="http://live.ru-tv.site/8434/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="1" group-title="🌎Познавательные",BOX Mayday HD
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/8434/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1597,10 +1612,10 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/32228/index.m3u8
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/32228/index.m3u8
 #EXTINF:-1 tvg-id="8812" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f2a5ae2af648e039927a2d00df63a560d407c0f0.png" group-title="🌎Познавательные",Yosso TV Science
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31617/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31617/index.m3u8
 #EXTINF:-1 tvg-id="8812" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f2a5ae2af648e039927a2d00df63a560d407c0f0.png" group-title="🌎Познавательные",Yosso TV Science (2)
 #EXTGRP:🌎Познавательные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31617/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31617/index.m3u8
 #EXTINF:-1 tvg-id="8812" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f2a5ae2af648e039927a2d00df63a560d407c0f0.png" group-title="🌎Познавательные",Yosso TV Science (3)
 #EXTGRP:🌎Познавательные
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31617/index.m3u8
@@ -1609,10 +1624,10 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31617/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31619/index.m3u8
 #EXTINF:-1 tvg-id="8814" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/085b11f193c97613b3f1c82cb1343e55fe2b0b92.png" group-title="🌎Познавательные",Yosso TV Travel (2)
 #EXTGRP:🌎Познавательные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/31619/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31619/index.m3u8
 #EXTINF:-1 tvg-id="8814" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/085b11f193c97613b3f1c82cb1343e55fe2b0b92.png" group-title="🌎Познавательные",Yosso TV Travel (3)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/31619/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/31619/index.m3u8
 #EXTINF:-1 tvg-id="2417" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5700157c9ae54844ec1c294d49d1cc224fbe814e.png" group-title="🌎Познавательные",Большая Азия HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2009/index.m3u8
@@ -1621,7 +1636,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2009/index.m3u8
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2009/index.m3u8
 #EXTINF:-1 tvg-id="2417" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5700157c9ae54844ec1c294d49d1cc224fbe814e.png" group-title="🌎Познавательные",Большая Азия HD (3)
 #EXTGRP:🌎Познавательные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/2009/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2009/index.m3u8
 #EXTINF:-1 tvg-id="325" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/04d2f337901cc997320d79671174833133167f71.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8180/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🌎Познавательные",Discovery Channel HD
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/8180/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1636,7 +1651,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/227/index.m3u8
 http://live.ru-tv.site/8074/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 #EXTINF:-1 tvg-id="2507" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d3959fe349764d5e9310043d2b2c70466b2ec2db.png" group-title="🌎Познавательные",Investigation Discovery HD
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2102/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2102/index.m3u8
 #EXTINF:-1 tvg-id="2507" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d3959fe349764d5e9310043d2b2c70466b2ec2db.png" group-title="🌎Познавательные",Investigation Discovery HD (2)
 #EXTGRP:🌎Познавательные
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2102/index.m3u8
@@ -1648,7 +1663,7 @@ http://live.ru-tv.site/8369/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/908/index.m3u8
 #EXTINF:-1 tvg-id="2310" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1564759e0d2f50435a0cd4829d3f7954595e036d.png" group-title="🌎Познавательные",Первый космический HD (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/908/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/908/index.m3u8
 #EXTINF:-1 tvg-id="2424" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/df27c2731b31602d9703baf095eb08081c73a93c.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8182/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🌎Познавательные",Телепутешествия HD
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/8182/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1657,7 +1672,7 @@ http://live.ru-tv.site/8182/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2051/index.m3u8
 #EXTINF:-1 tvg-id="2424" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/df27c2731b31602d9703baf095eb08081c73a93c.png" group-title="🌎Познавательные",Телепутешествия (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2051/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2051/index.m3u8
 #EXTINF:-1 tvg-id="5979" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/280c0aeaa2b15ffdd382a0878d34c3f86611aa58.png" group-title="🌎Познавательные",Глазами Туриста HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2104/index.m3u8
@@ -1675,7 +1690,7 @@ http://live.ru-tv.site/8649/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/920/index.m3u8
 #EXTINF:-1 tvg-id="2311" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/35520f3c9d97a75a77a639612451411996dfcedf.png" group-title="🌎Познавательные",Приключения HD (3)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/920/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/920/index.m3u8
 #EXTINF:-1 tvg-id="521" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/72561eb99a00a40702c76cff85554a380f3c5413.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8085/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="🌎Познавательные",viju Explore HD
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/8085/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1685,33 +1700,33 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6381/index.m3u8
 #EXTINF:-1 tvg-id="521" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/72561eb99a00a40702c76cff85554a380f3c5413.png" group-title="🌎Познавательные",Viju Explore HD (3)
 #EXTGRP:🌎Познавательные
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6381/index.m3u8
-#EXTINF:-1 tvg-id="277" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7e6bd12073710ec433ccc923c69da9d8200fdb06.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8086/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="🌎Познавательные",viju History HD
-#EXTGRP:🌎Познавательные
-http://live.ru-tv.site/8086/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="277" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7e6bd12073710ec433ccc923c69da9d8200fdb06.png" group-title="🌎Познавательные",Viju History HD (2)
+#EXTINF:-1 tvg-id="277" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7e6bd12073710ec433ccc923c69da9d8200fdb06.png" group-title="🌎Познавательные",Viju History HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/203/index.m3u8
-#EXTINF:-1 tvg-id="277" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7e6bd12073710ec433ccc923c69da9d8200fdb06.png" group-title="🌎Познавательные",Viju History HD (3)
+#EXTINF:-1 tvg-id="277" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7e6bd12073710ec433ccc923c69da9d8200fdb06.png" group-title="🌎Познавательные",Viju History HD (2)
 #EXTGRP:🌎Познавательные
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/203/index.m3u8
+#EXTINF:-1 tvg-id="277" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/7e6bd12073710ec433ccc923c69da9d8200fdb06.png" group-title="🌎Познавательные",Viju History HD (3)
+#EXTGRP:🌎Познавательные
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/203/index.m3u8
 #EXTINF:-1 tvg-id="2012" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2aaa235fbe7452c691402ec38e2082daf813e06a.png" group-title="🌎Познавательные",Viju+ Planet HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/9027/index.m3u8
 #EXTINF:-1 tvg-id="2012" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2aaa235fbe7452c691402ec38e2082daf813e06a.png" group-title="🌎Познавательные",Viju+ Planet HD (2)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/9027/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/9027/index.m3u8
 #EXTINF:-1 tvg-id="2012" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/2aaa235fbe7452c691402ec38e2082daf813e06a.png" group-title="🌎Познавательные",Viju+ Planet HD (3)
 #EXTGRP:🌎Познавательные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/9027/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/9027/index.m3u8
 #EXTINF:-1 tvg-id="1394" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/900d9d0f28cfab7b78230b1115a70489f63ad26d.png" group-title="🌎Познавательные",History HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/231/index.m3u8
 #EXTINF:-1 tvg-id="1394" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/900d9d0f28cfab7b78230b1115a70489f63ad26d.png" group-title="🌎Познавательные",History HD (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/231/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/231/index.m3u8
 #EXTINF:-1 tvg-id="1394" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/900d9d0f28cfab7b78230b1115a70489f63ad26d.png" group-title="🌎Познавательные",History HD (3)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/231/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/231/index.m3u8
 #EXTINF:-1 tvg-id="2356" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9552b390b92110b8703d12aa86340e3c54968876.png" catchup-days="0" group-title="🌎Познавательные",History 2 HD
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/9226/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1720,16 +1735,16 @@ http://live.ru-tv.site/9226/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/9013/index.m3u8
 #EXTINF:-1 tvg-id="2356" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/9552b390b92110b8703d12aa86340e3c54968876.png" group-title="🌎Познавательные",History 2 HD orig (2)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/9013/index.m3u8
-#EXTINF:-1 tvg-id="1035" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5e6a8c1ca83d955e589ad5f61e9a4a2feb2cca1a.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8170/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🌎Познавательные",Travel+Adventure HD
-#EXTGRP:🌎Познавательные
-http://live.ru-tv.site/8170/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="1035" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5e6a8c1ca83d955e589ad5f61e9a4a2feb2cca1a.png" group-title="🌎Познавательные",Travel+Adventure HD (2)
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/9013/index.m3u8
+#EXTINF:-1 tvg-id="1035" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5e6a8c1ca83d955e589ad5f61e9a4a2feb2cca1a.png" group-title="🌎Познавательные",Travel+Adventure HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/32097/index.m3u8
+#EXTINF:-1 tvg-id="1035" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5e6a8c1ca83d955e589ad5f61e9a4a2feb2cca1a.png" group-title="🌎Познавательные",Travel+Adventure HD (2)
+#EXTGRP:🌎Познавательные
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/32097/index.m3u8
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5e6a8c1ca83d955e589ad5f61e9a4a2feb2cca1a.png" group-title="🌎Познавательные",Travel+Adventure HD (3)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/32097/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/32097/index.m3u8
 #EXTINF:-1 tvg-id="613" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/897abb87122dcd9f6994fd2a3eedf9fa7d0957a1.png" catchup="default" catchup-days="7" catchup-source="http://live.ru-tv.site/8315/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="7" group-title="🌎Познавательные",Travel Channel HD
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/8315/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1744,10 +1759,10 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/233/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/15018/index.m3u8
 #EXTINF:-1 tvg-id="8164" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c8587dea639f4d956cacca24d8c3aed2ab41b348.png" group-title="🌎Познавательные",TravelXP HD (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/15018/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15018/index.m3u8
 #EXTINF:-1 tvg-id="8164" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c8587dea639f4d956cacca24d8c3aed2ab41b348.png" group-title="🌎Познавательные",TravelXP HD (3)
 #EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/15018/index.m3u8
+http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/15018/index.m3u8
 #EXTINF:-1 tvg-id="675" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/0092b93908c28c7862ee95fa1dce324110d37bca.png" catchup="default" catchup-days="14" catchup-source="http://live.ru-tv.site/8154/video-${start}-${duration}.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf" timeshift="14" group-title="🌎Познавательные",Моя Планета
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/8154/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1756,7 +1771,7 @@ http://live.ru-tv.site/8154/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2090/index.m3u8
 #EXTINF:-1 tvg-id="675" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/0092b93908c28c7862ee95fa1dce324110d37bca.png" group-title="🌎Познавательные",Моя Планета HD (2)
 #EXTGRP:🌎Познавательные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2090/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2090/index.m3u8
 #EXTINF:-1 tvg-id="7623" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f119f34ca30a6121ee133b1fb96119e0dfd0c38b.png" group-title="🌎Познавательные",Big Planet HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20036/index.m3u8
@@ -1765,7 +1780,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20036/index.m3u8
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20036/index.m3u8
 #EXTINF:-1 tvg-id="7623" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/f119f34ca30a6121ee133b1fb96119e0dfd0c38b.png" group-title="🌎Познавательные",Big Planet HD (3)
 #EXTGRP:🌎Познавательные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/20036/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20036/index.m3u8
 #EXTINF:-1 tvg-id="2283" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d3d444a607781437a0d7d55a4f416bf14f9bc5fe.png" catchup-days="0" group-title="🌎Познавательные",Дикий
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/9205/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1775,15 +1790,15 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/847/index.m3u8
 #EXTINF:-1 tvg-id="2283" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d3d444a607781437a0d7d55a4f416bf14f9bc5fe.png" group-title="🌎Познавательные",Дикий (3)
 #EXTGRP:🌎Познавательные
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/847/index.m3u8
-#EXTINF:-1 tvg-id="2484" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/10fe922e24b6db47b847284d74db898361f94f6a.png" catchup-days="0" group-title="🌎Познавательные",Дикая Рыбалка HD
-#EXTGRP:🌎Познавательные
-http://live.ru-tv.site/8316/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
-#EXTINF:-1 tvg-id="2484" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/10fe922e24b6db47b847284d74db898361f94f6a.png" group-title="🌎Познавательные",Дикая рыбалка HD (2)
-#EXTGRP:🌎Познавательные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2005/index.m3u8
-#EXTINF:-1 tvg-id="2484" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/10fe922e24b6db47b847284d74db898361f94f6a.png" group-title="🌎Познавательные",Дикая рыбалка HD (3)
+#EXTINF:-1 tvg-id="2484" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/10fe922e24b6db47b847284d74db898361f94f6a.png" group-title="🌎Познавательные",Дикая рыбалка HD
 #EXTGRP:🌎Познавательные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2005/index.m3u8
+#EXTINF:-1 tvg-id="2484" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/10fe922e24b6db47b847284d74db898361f94f6a.png" group-title="🌎Познавательные",Дикая рыбалка HD (2)
+#EXTGRP:🌎Познавательные
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2005/index.m3u8
+#EXTINF:-1 tvg-id="2484" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/10fe922e24b6db47b847284d74db898361f94f6a.png" group-title="🌎Познавательные",Дикая рыбалка HD (3)
+#EXTGRP:🌎Познавательные
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/2005/index.m3u8
 #EXTINF:-1 tvg-id="2627" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/48becbc5c7f84322a9aa23bc2ade87b6f4c6311c.png" catchup-days="0" group-title="🌎Познавательные",Диалоги о рыбалке
 #EXTGRP:🌎Познавательные
 http://live.ru-tv.site/8324/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -1792,43 +1807,43 @@ http://live.ru-tv.site/8324/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/2394/index.m3u8
 #EXTINF:-1 tvg-id="2627" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/48becbc5c7f84322a9aa23bc2ade87b6f4c6311c.png" group-title="🌎Познавательные",Диалоги о рыбалке HD (2)
 #EXTGRP:🌎Познавательные
-http://2b26c4a1.amazzin.pw/iptv/H2D2PZRSF54ZEE/2394/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/2394/index.m3u8
 #EXTINF:-1 tvg-id="3137" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1403a29435ca697716bb953d4710465a9f376f41.png" group-title="🌹Ночные",Analized HD
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6168/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6168/index.m3u8
 #EXTINF:-1 tvg-id="3137" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1403a29435ca697716bb953d4710465a9f376f41.png" group-title="🌹Ночные",Analized HD (2)
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6168/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6168/index.m3u8
 #EXTINF:-1 tvg-id="3137" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1403a29435ca697716bb953d4710465a9f376f41.png" group-title="🌹Ночные",Analized HD (3)
 #EXTGRP:🌹Ночные
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6168/index.m3u8
 #EXTINF:-1 tvg-id="7751" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d5374741adf2929f18ecff2649a07344b35ce87f.png" group-title="🌹Ночные",Anal Time
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12181/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12181/index.m3u8
 #EXTINF:-1 tvg-id="7751" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d5374741adf2929f18ecff2649a07344b35ce87f.png" group-title="🌹Ночные",Anal Time (2)
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12181/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12181/index.m3u8
 #EXTINF:-1 tvg-id="7751" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/d5374741adf2929f18ecff2649a07344b35ce87f.png" group-title="🌹Ночные",Anal Time (3)
 #EXTGRP:🌹Ночные
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12181/index.m3u8
 #EXTINF:-1 tvg-id="7752" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/efe1c25f8ccf2d42080cbc76ac223d7019882f8d.png" group-title="🌹Ночные",Anal Teen Angels
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12183/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12183/index.m3u8
 #EXTINF:-1 tvg-id="7752" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/efe1c25f8ccf2d42080cbc76ac223d7019882f8d.png" group-title="🌹Ночные",Anal Teen Angels (2)
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12183/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12183/index.m3u8
 #EXTINF:-1 tvg-id="7752" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/efe1c25f8ccf2d42080cbc76ac223d7019882f8d.png" group-title="🌹Ночные",Anal Teen Angels (3)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12183/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12183/index.m3u8
 #EXTINF:-1 tvg-id="7753" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ba6acf22509a43ad4543a3cb6a828c77714b28b9.png" group-title="🌹Ночные",Anal Only
 #EXTGRP:🌹Ночные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12184/index.m3u8
 #EXTINF:-1 tvg-id="7753" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ba6acf22509a43ad4543a3cb6a828c77714b28b9.png" group-title="🌹Ночные",Anal Only (2)
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12184/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12184/index.m3u8
 #EXTINF:-1 tvg-id="7753" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/ba6acf22509a43ad4543a3cb6a828c77714b28b9.png" group-title="🌹Ночные",Anal Only (3)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12184/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12184/index.m3u8
 #EXTINF:-1 tvg-id="7754" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/aba1707f3abee01d94697922da56b99dfdbfa466.png" group-title="🌹Ночные",Anal Mom
 #EXTGRP:🌹Ночные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12189/index.m3u8
@@ -1843,10 +1858,10 @@ http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12189/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12192/index.m3u8
 #EXTINF:-1 tvg-id="7757" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c6d35a0fcc54b32202c2968cebffd764b16c3705.png" group-title="🌹Ночные",All Anal (2)
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12192/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12192/index.m3u8
 #EXTINF:-1 tvg-id="7757" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/c6d35a0fcc54b32202c2968cebffd764b16c3705.png" group-title="🌹Ночные",All Anal (3)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12192/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12192/index.m3u8
 #EXTINF:-1 tvg-id="3214" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/86879b606c78a39b2b7bd4c58055f1ea100e516e.png" group-title="🌹Ночные",Private TV
 #EXTGRP:🌹Ночные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/243/index.m3u8
@@ -1861,10 +1876,10 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/243/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6199/index.m3u8
 #EXTINF:-1 tvg-id="3168" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/98642b8423fd445d885e5146876b79da83e22971.png" group-title="🌹Ночные",Evil Angel HD (2)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6199/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6199/index.m3u8
 #EXTINF:-1 tvg-id="3168" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/98642b8423fd445d885e5146876b79da83e22971.png" group-title="🌹Ночные",Evil Angel HD (3)
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6199/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6199/index.m3u8
 #EXTINF:-1 tvg-id="3171" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/e772f02e33bf0bc16a72abae339902ab4e878267.png" group-title="🌹Ночные",Fake Taxi HD
 #EXTGRP:🌹Ночные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6202/index.m3u8
@@ -1876,31 +1891,31 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6202/index.m3u8
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6202/index.m3u8
 #EXTINF:-1 tvg-id="3194" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/31ea4337712b9f4441fc3534d3c2a815750d0c98.png" group-title="🌹Ночные",Japan HDV
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6225/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6225/index.m3u8
 #EXTINF:-1 tvg-id="3194" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/31ea4337712b9f4441fc3534d3c2a815750d0c98.png" group-title="🌹Ночные",Japan HDV (2)
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6225/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6225/index.m3u8
 #EXTINF:-1 tvg-id="3194" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/31ea4337712b9f4441fc3534d3c2a815750d0c98.png" group-title="🌹Ночные",Japan HDV (3)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6225/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6225/index.m3u8
 #EXTINF:-1 tvg-id="3199" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1f7847aba445e3cdcb0ebdd2313f3de785aaf1d3.png" group-title="🌹Ночные",Little Asians HD
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6230/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6230/index.m3u8
 #EXTINF:-1 tvg-id="3199" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1f7847aba445e3cdcb0ebdd2313f3de785aaf1d3.png" group-title="🌹Ночные",Little Asians HD (2)
 #EXTGRP:🌹Ночные
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6230/index.m3u8
 #EXTINF:-1 tvg-id="3199" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1f7847aba445e3cdcb0ebdd2313f3de785aaf1d3.png" group-title="🌹Ночные",Little Asians HD (3)
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6230/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6230/index.m3u8
 #EXTINF:-1 tvg-id="3215" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5ecac139aebbdb69d452dd95da86a9fb38288738.png" group-title="🌹Ночные",Public Agent
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6246/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6246/index.m3u8
 #EXTINF:-1 tvg-id="3215" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5ecac139aebbdb69d452dd95da86a9fb38288738.png" group-title="🌹Ночные",Public Agent (2)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6246/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6246/index.m3u8
 #EXTINF:-1 tvg-id="3215" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/5ecac139aebbdb69d452dd95da86a9fb38288738.png" group-title="🌹Ночные",Public Agent (3)
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6246/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6246/index.m3u8
 #EXTINF:-1 tvg-id="3228" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/dbf144719c06e6d585d7038e9354bf4d755913b5.png" group-title="🌹Ночные",Trans Angels
 #EXTGRP:🌹Ночные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6259/index.m3u8
@@ -1921,22 +1936,22 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/11068/index.m3u8
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/11068/index.m3u8
 #EXTINF:-1 tvg-id="2526" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/93b45517367fd3834dcafc79cee7771c5a1b0491.png" group-title="🌹Ночные",French Lover
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12124/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12124/index.m3u8
 #EXTINF:-1 tvg-id="2526" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/93b45517367fd3834dcafc79cee7771c5a1b0491.png" group-title="🌹Ночные",French Lover (2)
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12124/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12124/index.m3u8
 #EXTINF:-1 tvg-id="2526" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/93b45517367fd3834dcafc79cee7771c5a1b0491.png" group-title="🌹Ночные",French Lover (3)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12124/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12124/index.m3u8
 #EXTINF:-1 tvg-id="7736" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1baa4452e4b64292a4b4cb646f8340b650493c11.png" group-title="🌹Ночные",Family Swap
 #EXTGRP:🌹Ночные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12155/index.m3u8
 #EXTINF:-1 tvg-id="7736" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1baa4452e4b64292a4b4cb646f8340b650493c11.png" group-title="🌹Ночные",Family Swap (2)
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12155/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12155/index.m3u8
 #EXTINF:-1 tvg-id="7736" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/1baa4452e4b64292a4b4cb646f8340b650493c11.png" group-title="🌹Ночные",Family Swap (3)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12155/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12155/index.m3u8
 #EXTINF:-1 tvg-id="7737" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/af06432f35fb18ae0365cc2bce5f71bc5f8ab73a.png" group-title="🌹Ночные",Family Strokes
 #EXTGRP:🌹Ночные
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12156/index.m3u8
@@ -1975,10 +1990,10 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12169/index.m3u8
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12169/index.m3u8
 #EXTINF:-1 tvg-id="7758" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/bac50de2f36e0b175244c7da9ebba94a72100a79.png" group-title="🌹Ночные",Alex Legend
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12193/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12193/index.m3u8
 #EXTINF:-1 tvg-id="7758" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/bac50de2f36e0b175244c7da9ebba94a72100a79.png" group-title="🌹Ночные",Alex Legend (2)
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/12193/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/12193/index.m3u8
 #EXTINF:-1 tvg-id="7758" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/bac50de2f36e0b175244c7da9ebba94a72100a79.png" group-title="🌹Ночные",Alex Legend (3)
 #EXTGRP:🌹Ночные
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/12193/index.m3u8
@@ -1996,10 +2011,10 @@ http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20089/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20090/index.m3u8
 #EXTINF:-1 tvg-id="7252" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/643871516dfc3b880a8a474a2acb7a3b4e58528f.png" group-title="🌹Ночные",CineMan ExExEx TWO (2)
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20090/index.m3u8
+http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20090/index.m3u8
 #EXTINF:-1 tvg-id="7252" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/643871516dfc3b880a8a474a2acb7a3b4e58528f.png" group-title="🌹Ночные",CineMan ExExEx TWO (3)
 #EXTGRP:🌹Ночные
-http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/20090/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/20090/index.m3u8
 #EXTINF:-1 tvg-id="3140" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/fcd713722aefcc3c9916ccba2638ef32c662a39c.png" catchup-days="0" group-title="🌹Ночные",Babes TV HD
 #EXTGRP:🌹Ночные
 http://live.ru-tv.site/9252/video.m3u8?token=49a9134cba58721c9c4d7dd48b009eaf
@@ -2011,10 +2026,10 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/32315/index.m3u8
 http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/32315/index.m3u8
 #EXTINF:-1 tvg-id="3190" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b8ce6b4eda3c3e14fa4fcbdaadb08cafb4cf708b.png" group-title="🌹Ночные",Holed
 #EXTGRP:🌹Ночные
-http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6221/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6221/index.m3u8
 #EXTINF:-1 tvg-id="3190" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b8ce6b4eda3c3e14fa4fcbdaadb08cafb4cf708b.png" group-title="🌹Ночные",Holed (2)
 #EXTGRP:🌹Ночные
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/6221/index.m3u8
+http://9d43b725.ottolok.net/iptv/WHM4ZEK26FD6DY/6221/index.m3u8
 #EXTINF:-1 tvg-id="3190" tvg-logo="https://raw.githubusercontent.com/Lorax121/epg_v2/main/icons/pool/b8ce6b4eda3c3e14fa4fcbdaadb08cafb4cf708b.png" group-title="🌹Ночные",Holed (3)
 #EXTGRP:🌹Ночные
 http://dbca06a0.rossteleccom.net/iptv/3F6EXEEA7RHP74/6221/index.m3u8
