@@ -22,16 +22,18 @@ jobs:
       - name: Run script
         run: python3 update.py
       - name: Send Telegram report
-        if: always() && env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
+        if: always()
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          if [ -f report.txt ]; then
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ] && [ -f report.txt ]; then
             TEXT=$(head -c 3800 report.txt)
             curl -s -X POST "https://telegram.org{TELEGRAM_BOT_TOKEN}/sendMessage" \
               --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
-              --data-urlencode "text=${TEXT}" > /dev/null
+              --data-urlencode "text=${TEXT}"
+          else
+            echo "Не хватает секретов или файла report.txt"
           fi
       - name: Save playlist
         if: always()
